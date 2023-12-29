@@ -1,0 +1,646 @@
+job_title,rating,company_name,industry,old title,salary_lower,salary_upper,salary,City,State,max_emp_size,min_emp_size,company_age,python,excel,hadoop,spark,aws,tableau,big_data,numpy,pandas,machine_learning,power_bi,sql,deep_learning
+senior data scientist,3.1,Healthfirst,Insurance Carriers,Sr Data Scientist,137,171,222.5,New York,NY,5000,1001,28,0,0,0,0,1,0,0,0,0,1,0,0,0
+data scientist,4.2,ManTech,Research & Development,Data Scientist,137,171,222.5,Chantilly,VA,10000,5001,53,0,0,1,0,0,0,0,0,0,1,0,1,0
+data scientist,3.8,Analysis Group,Consulting,Data Scientist,137,171,222.5,Boston,MA,5000,1001,40,1,1,0,0,1,0,0,0,0,1,0,0,0
+data scientist,3.5,INFICON,Electrical & Electronic Manufacturing,Data Scientist,137,171,222.5,Newton,MA,1000,501,21,1,1,0,0,1,0,0,0,0,1,0,1,1
+data scientist,2.9,Affinity Solutions,Advertising & Marketing,Data Scientist,137,171,222.5,New York,NY,200,51,23,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,4.2,HG Insights,Computer Hardware & Software,Data Scientist,137,171,222.5,Santa Barbara,CA,200,51,11,1,1,1,1,0,0,0,0,0,1,0,1,0
+machine learning engineer,3.9,Novartis,Biotech & Pharmaceuticals,Data Scientist / Machine Learning Expert,137,171,222.5,Cambridge,MA,10000,10000,25,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.5,iRobot,Consumer Electronics & Appliances Stores,Data Scientist,137,171,222.5,Bedford,MA,5000,1001,31,1,0,0,0,0,0,0,1,1,0,0,1,0
+senior data scientist,4.4,Intuit - Data,Computer Hardware & Software,Staff Data Scientist - Analytics,137,171,222.5,San Diego,CA,10000,5001,38,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.6,XSELL Technologies,Enterprise Software & Network Solutions,Data Scientist,137,171,222.5,Chicago,IL,200,51,7,1,0,0,0,0,0,0,0,0,1,0,1,1
+data scientist,4.5,Novetta,Enterprise Software & Network Solutions,Data Scientist,137,171,222.5,Herndon,VA,1000,501,9,1,1,0,0,1,0,0,0,0,1,0,0,1
+data scientist,4.7,1904labs,IT Services,Data Scientist,137,171,222.5,Saint Louis,MO,200,51,5,1,0,0,1,0,0,0,0,1,1,0,1,0
+data scientist,3.7,PNNL,Energy,"Data Scientist - Statistics, Early Career",137,171,222.5,Richland,WA,5000,1001,56,0,1,0,0,0,0,0,0,0,1,0,0,0
+data modeler,3.1,Old World Industries,Chemical Manufacturing,Data Modeler,137,171,222.5,Northbrook,IL,500,201,48,1,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,3.4,Mathematica Policy Research,Consulting,Data Scientist,137,171,222.5,Washington,DC,5000,1001,35,1,1,0,0,1,0,0,0,1,1,0,0,0
+senior data scientist,4.4,Guzman & Griffin Technologies (GGTI),Federal Agencies,Experienced Data Scientist,137,171,222.5,Washington,DC,50,1,24,1,1,1,1,0,1,0,1,0,1,0,1,1
+data scientist,4.1,Upside Business Travel,Internet,Data Scientist - Contract,137,171,222.5,Remote,,200,51,6,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.5,Buckman,Chemical Manufacturing,Data Scientist,137,171,222.5,Memphis,TN,5000,1001,76,1,0,1,0,0,0,0,0,0,1,0,1,0
+senior data analyst,4.2,"Insight Enterprises, Inc.",Enterprise Software & Network Solutions,Data Analyst II,137,171,222.5,Plano,TX,10000,5001,33,0,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.5,Tower Health,Health Care Services & Hospitals,Medical Lab Scientist,137,171,222.5,West Grove,PA,10000,5001,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.2,Triplebyte,Computer Hardware & Software,Data Scientist,137,171,222.5,New York,NY,200,51,6,0,0,0,0,0,0,0,0,0,1,0,0,0
+machine learning engineer,4.3,PulsePoint,Internet,Data Scientist/Machine Learning,137,171,222.5,New York,NY,200,51,10,1,0,1,1,0,0,0,1,1,1,0,0,0
+data scientist,3.5,Exponent,Consulting,Human Factors Scientist,137,171,222.5,Phoenix,AZ,5000,1001,54,0,1,0,0,0,0,0,0,0,0,0,0,0
+data analyst,3.5,Guardian Life,Insurance Carriers,Business Intelligence Analyst I- Data Insights,137,171,222.5,Appleton,WI,10000,5001,161,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.4,Spectrum Communications and Consulting,Advertising & Marketing,Data Scientist,137,171,222.5,Chicago,IL,200,51,29,0,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,4.7,Oversight Systems,Computer Hardware & Software,Data Scientist,137,171,222.5,Atlanta,GA,200,51,18,1,1,0,0,0,0,0,0,1,1,0,1,1
+data scientist,4.2,LSQ,Investment Banking & Asset Management,Data Scientist - Risk,137,171,222.5,Orlando,FL,200,51,25,1,1,1,1,1,1,0,0,0,0,1,0,0
+data scientist,3.8,MIT Lincoln Laboratory,Aerospace & Defense,Data Scientist-Human Resources,137,171,222.5,Lexington,MA,5000,1001,70,1,0,1,1,0,0,0,0,0,1,0,1,0
+data scientist,4.5,Kingfisher Systems,Federal Agencies,Data Scientist,137,171,222.5,McLean,VA,200,51,16,1,0,0,0,0,1,0,0,0,1,0,1,0
+data scientist,2.8,Formation,Enterprise Software & Network Solutions,Data Scientist,137,171,222.5,San Francisco,CA,200,51,6,0,1,0,1,0,0,0,0,0,1,0,0,0
+data scientist,3.8,Analysis Group,Consulting,Data Scientist,75,131,140.5,Boston,MA,5000,1001,40,1,1,0,0,1,0,0,0,0,1,0,0,0
+machine learning engineer,3.9,Novartis,Biotech & Pharmaceuticals,Data Scientist / Machine Learning Expert,75,131,140.5,Cambridge,MA,10000,10000,25,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,5.0,Cohere Health,IT Services,Data Scientist,75,131,140.5,Boston,MA,50,1,2,1,1,0,0,0,0,0,0,0,1,0,1,0
+senior data scientist,4.8,Acuity Insurance,Insurance Carriers,Senior Research Statistician- Data Scientist,75,131,140.5,Sheboygan,WI,5000,1001,96,0,0,0,0,0,0,0,0,0,0,0,0,0
+data engineer,3.6,Chef,Enterprise Software & Network Solutions,Data Engineer,75,131,140.5,United States,,500,201,13,0,1,0,0,1,0,0,0,0,0,0,1,0
+data scientist,3.3,Puget Sound Energy,Utilities,Associate Data Scientist,75,131,140.5,Bothell,WA,5000,1001,22,0,1,1,1,0,0,0,0,0,1,0,1,0
+data analyst,2.7,Sandhills Global,Enterprise Software & Network Solutions,Business Intelligence Analyst,75,131,140.5,Lincoln,NE,5000,1001,43,1,1,0,0,0,1,0,0,0,0,1,1,0
+data scientist,2.7,A Place for Mom,Health Care Services & Hospitals,Data Scientist,75,131,140.5,Overland Park,KS,1000,501,21,1,1,0,0,1,0,0,0,0,1,0,1,0
+data scientist,2.2,Great-Circle Technologies,Enterprise Software & Network Solutions,Data Scientist,75,131,140.5,Chantilly,VA,50,1,21,1,1,1,1,1,0,0,0,0,1,0,1,0
+senior data analyst,3.4,Edmunds.com,Internet,Senior Analyst/Data Scientist,75,131,140.5,Santa Monica,CA,1000,501,55,1,1,0,0,1,1,0,0,0,0,0,1,0
+data analyst,3.1,"Cambridge Associates, LLC",Investment Banking & Asset Management,Data Analyst,75,131,140.5,Boston,MA,1000,501,48,1,1,0,0,0,0,0,0,0,0,0,1,0
+machine learning engineer,3.4,Liberty Mutual Insurance,Insurance Carriers,Machine Learning Engineer,75,131,140.5,Portsmouth,NH,10000,10000,109,1,1,0,1,1,0,0,0,0,1,0,0,0
+data analyst,2.6,Cenlar,Unknown,Data Analyst I,75,131,140.5,Ewing,NJ,5000,1001,63,0,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,5.0,Arsenal Biosciences,Biotech & Pharmaceuticals,Scientist - Molecular Biology,75,131,140.5,South San Francisco,CA,200,51,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.2,Eversight,Enterprise Software & Network Solutions,Data Scientist,75,131,140.5,Palo Alto,CA,200,51,8,1,0,0,0,0,0,0,0,0,1,0,0,1
+machine learning engineer,4.1,Pfizer,Biotech & Pharmaceuticals,"Computational Scientist, Machine Learning",75,131,140.5,Cambridge,MA,10000,10000,172,1,1,0,0,1,0,0,0,0,1,0,0,1
+senior data scientist,4.8,Klaviyo,Computer Hardware & Software,Senior Data Scientist,75,131,140.5,Boston,MA,500,201,9,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.3,Intellectual Ventures,Investment Banking & Asset Management,Data Scientist,75,131,140.5,Bellevue,WA,1000,501,21,1,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.7,GovTech,Federal Agencies,Data Scientist,75,131,140.5,San Francisco,CA,5000,1001,5,1,1,0,0,0,1,0,0,0,1,0,0,0
+data scientist,4.3,Quick Base,Enterprise Software & Network Solutions,Data Scientist,75,131,140.5,Cambridge,MA,500,201,22,1,1,0,0,0,1,0,0,1,1,1,1,0
+data analyst,4.8,Giving Assistant,Advertising & Marketing,Data Analyst,75,131,140.5,San Francisco,CA,50,1,7,1,1,0,0,0,1,0,0,0,1,0,1,0
+data scientist,3.7,Takeda,Biotech & Pharmaceuticals,Data Scientist,75,131,140.5,Cambridge,MA,10000,10000,240,1,0,0,1,0,0,0,0,0,1,0,1,1
+data scientist,4.0,Netskope,Enterprise Software & Network Solutions,Data Scientist,75,131,140.5,San Francisco,CA,1000,501,9,1,1,0,1,0,0,0,0,0,1,0,0,0
+data engineer,4.8,IT Concepts,IT Services,Jr. Data Engineer,75,131,140.5,Remote,,200,51,18,0,1,0,0,0,0,0,0,0,0,0,1,0
+data analyst,3.5,iSeatz,Enterprise Software & Network Solutions,E-Commerce Data Analyst,75,131,140.5,New Orleans,LA,200,51,22,0,1,0,0,0,0,0,0,0,0,0,1,0
+data engineer,3.7,Summa Health System,Health Care Services & Hospitals,Data Analytics Engineer,75,131,140.5,Akron,OH,10000,5001,95,0,1,0,0,1,1,0,0,0,0,0,0,0
+senior data scientist,3.5,Benson Hill,Biotech & Pharmaceuticals,Senior Data Scientist,75,131,140.5,Saint Louis,MO,500,201,9,1,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.1,Twitter,Internet,Product Data Scientist - Ads Data Science,75,131,140.5,San Francisco,CA,5000,1001,15,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.2,Postmates - Corporate HQ,Express Delivery Services,Data Scientist,75,131,140.5,San Francisco,CA,5000,1001,10,1,0,0,1,0,0,0,1,1,1,0,1,0
+data scientist,4.5,Envision LLC,Staffing & Outsourcing,Data Scientist - Intermediate,75,131,140.5,Saint Louis,MO,500,201,27,1,1,0,0,0,0,0,0,0,1,0,0,0
+data analyst,3.8,Swiss Re,Insurance Agencies & Brokerages,Data Analyst,75,131,140.5,Fort Wayne,IN,10000,10000,158,1,1,0,0,0,0,0,0,0,0,0,1,0
+machine learning engineer,4.5,Systems & Technology Research,Aerospace & Defense,Machine Learning Engineer,75,131,140.5,Woburn,MA,500,201,11,1,1,0,0,0,0,0,0,0,1,0,0,1
+data scientist,3.5,iRobot,Consumer Electronics & Appliances Stores,Data Scientist,79,131,144.5,Bedford,MA,5000,1001,31,1,0,0,0,0,0,0,1,1,0,0,1,0
+data scientist,4.2,HG Insights,Computer Hardware & Software,Data Scientist,79,131,144.5,Santa Barbara,CA,200,51,11,1,1,1,1,0,0,0,0,0,1,0,1,0
+data analyst,3.8,Dermalogica,Consumer Products Manufacturing,Global Data Analyst,79,131,144.5,Carson,CA,500,201,35,0,1,0,0,0,1,0,0,0,0,1,1,0
+data engineer,3.7,Bayview Asset Management,Investment Banking & Asset Management,Data Engineer,79,131,144.5,Coral Gables,FL,5000,1001,26,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.7,Via Transportation,Internet,Data Scientist,79,131,144.5,New York,NY,1000,501,9,1,0,0,0,0,1,0,0,0,1,0,1,0
+data scientist,4.0,Grid Dynamics,Enterprise Software & Network Solutions,Data Scientist,79,131,144.5,Santa Clara,CA,5000,1001,15,1,1,0,0,0,1,0,0,0,0,0,1,0
+machine learning engineer,3.3,Tempus Labs,Biotech & Pharmaceuticals,Data & Machine Learning Scientist,79,131,144.5,Chicago,IL,1000,501,6,1,0,0,0,1,0,0,1,1,1,0,1,1
+machine learning engineer,2.5,CareDx,Biotech & Pharmaceuticals,Data Scientist - Machine Learning,79,131,144.5,Brisbane,CA,50,1,1,1,1,0,1,0,0,0,1,0,1,0,0,1
+data engineer,4.2,IZEA,Advertising & Marketing,Data Engineer (Remote),79,131,144.5,Winter Park,FL,200,51,15,1,1,1,1,1,0,0,0,0,1,0,1,0
+machine learning engineer,3.3,Tempus Labs,Biotech & Pharmaceuticals,"Data Scientist, Applied Machine Learning - Bay Area",79,131,144.5,Redwood City,CA,1000,501,6,1,0,0,0,1,0,0,1,1,1,0,1,0
+data science manager,4.0,Autodesk,Computer Hardware & Software,Principal Data Scientist,79,131,144.5,San Francisco,CA,10000,5001,39,1,1,1,1,1,0,0,0,0,1,0,0,0
+data analyst,3.7,Caterpillar,Industrial Manufacturing,Business Data Analyst,79,131,144.5,Peoria,IL,10000,10000,96,0,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,4.9,New England Biolabs,Biotech & Pharmaceuticals,Purification Scientist,79,131,144.5,Ipswich,MA,500,201,47,0,0,0,0,0,0,0,0,0,0,0,0,0
+data analyst,3.4,Allied Solutions,Insurance Agencies & Brokerages,Data Analyst,79,131,144.5,Carmel,IN,5000,1001,20,1,1,0,0,0,1,0,0,0,0,0,1,0
+data engineer,3.1,Healthfirst,Insurance Carriers,"Data Engineer, Enterprise Analytics",79,131,144.5,New York,NY,5000,1001,28,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.5,The Knot Worldwide,Internet,Data Scientist,79,131,144.5,Washington,DC,5000,1001,2,1,0,0,1,1,0,0,0,0,1,0,0,0
+data scientist,2.9,IFG Companies,Insurance Carriers,Data Scientist,79,131,144.5,New York,NY,500,201,36,1,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.3,Amyris,Biotech & Pharmaceuticals,Data Scientist 3 (718),79,131,144.5,Emeryville,CA,500,201,18,1,0,0,0,1,0,0,0,0,1,0,0,0
+data scientist,4.0,AstraZeneca,Biotech & Pharmaceuticals,"Real World Science, Data Scientist",79,131,144.5,Gaithersburg,MD,10000,10000,108,1,0,1,0,0,0,0,0,0,1,0,1,0
+data scientist,3.6,Powertek,IT Services,Data Scientist,79,131,144.5,Washington,DC,200,51,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+data engineer,4.7,Object Partners,Consulting,Data Engineer,79,131,144.5,Saint Louis,MO,200,51,25,0,0,1,1,1,0,0,0,0,0,0,1,0
+data scientist,4.9,The Mom Project,Staffing & Outsourcing,Data Scientist - Image and Video Analytics,79,131,144.5,Longmont,CO,50,1,5,1,0,1,1,1,0,0,0,0,1,0,0,1
+data scientist,4.3,Lightspeed Systems,Computer Hardware & Software,Data Scientist,79,131,144.5,Austin,TX,200,51,22,1,0,0,1,1,0,0,0,0,1,0,1,1
+data science manager,4.0,Stripe,Internet,"Data Science Manager, Payment Acceptance - USA",79,131,144.5,San Francisco,CA,5000,1001,11,1,0,0,0,0,0,0,0,0,1,0,1,0
+data analyst,2.6,Comprehensive Healthcare,Health Care Services & Hospitals,Data Analyst,79,131,144.5,Yakima,WA,1000,501,50,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.5,"Fullpower Technologies, Inc.",Computer Hardware & Software,Data Scientist / Applied Mathematician,79,131,144.5,Santa Cruz,CA,200,51,18,1,0,0,0,1,0,0,0,1,1,0,1,1
+machine learning engineer,4.8,Klaviyo,Computer Hardware & Software,Machine Learning Engineer,79,131,144.5,Boston,MA,500,201,9,1,0,0,0,0,0,0,1,1,1,0,0,0
+data scientist,3.9,Mars,Food & Beverage Manufacturing,Data Scientist,79,131,144.5,United States,,10000,10000,110,1,0,0,1,1,0,0,0,0,1,0,0,0
+data scientist,4.0,AstraZeneca,Biotech & Pharmaceuticals,Patient Safety- Associate Data Scientist,79,131,144.5,Gaithersburg,MD,10000,10000,108,1,1,0,0,0,0,0,0,0,1,0,1,1
+machine learning engineer,4.4,NuWave Solutions,IT Services,Machine Learning Engineer,79,131,144.5,Springfield,VA,200,51,22,1,0,1,1,1,0,0,0,0,1,0,1,0
+senior data scientist,4.2,ManTech,Research & Development,Senior Data Scientist,79,131,144.5,Alexandria,VA,10000,5001,53,1,0,1,1,0,1,0,0,0,1,0,1,0
+senior data scientist,3.6,Merrick Bank,Banks & Credit Unions,(Sr.) Data Scientist -,79,131,144.5,Utah,,500,201,24,1,1,0,0,1,0,0,0,0,1,0,1,0
+data scientist,3.4,Mathematica Policy Research,Consulting,Data Scientist,99,132,165.0,Washington,DC,5000,1001,35,1,1,0,0,1,0,0,0,1,1,0,0,0
+senior data scientist,4.4,Intuit - Data,Computer Hardware & Software,Staff Data Scientist - Analytics,99,132,165.0,San Diego,CA,10000,5001,38,0,0,0,0,0,0,0,0,0,0,0,0,0
+data engineer,3.5,QOMPLX,Enterprise Software & Network Solutions,Data Analytics Engineer,99,132,165.0,Reston,VA,200,51,6,1,0,0,1,0,0,0,0,0,1,0,1,0
+data scientist,3.9,Mars,Food & Beverage Manufacturing,"Data Scientist, Kinship - NYC/Portland",99,132,165.0,New York,NY,10000,10000,110,1,0,0,1,0,0,0,0,0,1,0,0,0
+senior data scientist,3.8,GutCheck,Advertising & Marketing,Senior Data Scientist,99,132,165.0,Denver,CO,200,51,12,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.5,Inter-American Development Bank,Banks & Credit Unions,Applied Technology Researcher / Data Scientist,99,132,165.0,Washington,DC,5000,1001,62,0,1,0,0,0,1,0,0,0,0,0,0,0
+data scientist,4.9,Avlino,Enterprise Software & Network Solutions,Data Scientist,99,132,165.0,New Jersey,,50,1,8,1,0,1,1,0,0,0,0,0,1,0,0,0
+machine learning engineer,4.4,Stratagem Group,Aerospace & Defense,Machine Learning Engineer,99,132,165.0,Aurora,CO,50,1,14,1,1,1,1,1,0,0,0,0,1,0,1,1
+data scientist,4.1,Evidation,Internet,Health Data Scientist - Biomedical/Biostats,99,132,165.0,Santa Barbara,CA,200,51,9,1,0,0,0,0,0,0,0,0,1,0,0,1
+senior data scientist,4.0,Autodesk,Computer Hardware & Software,Senior Data Scientist,99,132,165.0,San Francisco,CA,10000,5001,39,1,0,1,1,0,0,0,0,1,1,0,1,0
+senior data scientist,4.4,Intuit - Data,Computer Hardware & Software,Staff Data Scientist,99,132,165.0,San Diego,CA,10000,5001,38,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.8,Tecolote Research,Aerospace & Defense,Data Scientist,99,132,165.0,Hill AFB,UT,1000,501,48,1,1,0,0,0,1,0,0,0,1,1,1,0
+senior data engineer,3.2,Tivity Health,Health Care Services & Hospitals,Sr Data Engineer (Sr BI Developer),99,132,165.0,Chandler,AZ,1000,501,40,0,0,1,0,0,0,0,0,0,0,0,1,0
+data engineer,2.9,hc1,Biotech & Pharmaceuticals,Data Engineer,99,132,165.0,Indianapolis,IN,200,51,10,1,0,0,0,1,0,0,0,0,1,0,1,0
+data science manager,4.1,HP Inc.,Computer Hardware & Software,Lead Data Scientist,99,132,165.0,San Diego,CA,10000,10000,82,1,1,1,0,1,0,0,0,0,1,0,0,0
+data scientist,3.7,SAIC,Enterprise Software & Network Solutions,Data Scientist,99,132,165.0,Chantilly,VA,10000,10000,8,1,0,0,0,0,0,0,0,0,0,0,0,0
+data analyst,3.2,AllianceBernstein,Investment Banking & Asset Management,RFP Data Analyst,99,132,165.0,Nashville,TN,5000,1001,54,0,1,0,1,0,0,0,0,0,0,0,0,0
+data analyst,4.9,Big Huge Games,Video Games,Data Analyst,99,132,165.0,Timonium,MD,200,51,8,0,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,3.5,Maxar Technologies,Aerospace & Defense,Data Scientist (TS/SCI),99,132,165.0,Herndon,VA,10000,5001,1,1,0,0,0,0,0,0,0,0,1,0,1,0
+data engineer,5.0,Phantom AI,Computer Hardware & Software,Data Engineer,99,132,165.0,Burlingame,CA,50,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.0,Noblis,Consulting,Data Scientist,99,132,165.0,Reston,VA,5000,1001,25,1,0,1,1,1,1,0,0,0,1,0,1,0
+data scientist,3.6,Spring Health,Health Care Services & Hospitals,Data Scientist,99,132,165.0,New York,NY,50,1,5,1,1,0,0,0,0,0,0,0,1,0,1,0
+data engineer,4.0,ClearEdge,Computer Hardware & Software,Software Engineer - Data Science,99,132,165.0,Annapolis Junction,MD,200,51,19,1,1,1,1,0,0,0,0,1,1,0,0,0
+data engineer,3.2,AllianceBernstein,Investment Banking & Asset Management,Data Analyst/Engineer,99,132,165.0,Nashville,TN,5000,1001,54,1,1,0,0,0,0,0,0,0,0,0,1,0
+data scientist,5.0,Arsenal Biosciences,Biotech & Pharmaceuticals,NGS Scientist,99,132,165.0,South San Francisco,CA,200,51,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+data engineer,4.8,GetWellNetwork,Health Care Services & Hospitals,Data Engineer,99,132,165.0,Bethesda,MD,500,201,21,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,4.5,TACG Solutions,Consulting,Data Scientist,99,132,165.0,Dayton,OH,200,51,15,1,1,0,0,0,1,0,0,0,0,0,1,0
+senior data engineer,4.7,Scoop,Internet,Senior Data Engineer,99,132,165.0,San Francisco,CA,200,51,6,1,0,0,1,0,0,0,0,0,1,0,0,0
+senior data scientist,4.5,Novetta,Enterprise Software & Network Solutions,Senior Data Scientist,99,132,165.0,Herndon,VA,1000,501,9,1,1,0,0,1,0,0,0,0,1,0,0,1
+data engineer,4.2,IZEA,Advertising & Marketing,Data Engineer,99,132,165.0,Winter Park,FL,200,51,15,1,1,1,1,1,0,0,0,0,1,0,1,0
+data analyst,3.4,Montway Inc,Shipping,Business Intelligence Analyst,99,132,165.0,Schaumburg,IL,200,51,15,1,1,0,0,0,1,0,0,0,1,0,1,0
+senior data scientist,3.8,Juniper Networks,Telecommunications Services,Sr. ML/Data Scientist - AI/NLP/Chatbot,99,132,165.0,Cupertino,CA,10000,5001,25,1,1,0,1,1,0,0,1,0,1,0,0,0
+data scientist,4.7,1904labs,IT Services,Data Scientist,90,109,144.5,Saint Louis,MO,200,51,5,1,0,0,1,0,0,0,0,1,1,0,1,0
+data scientist,3.6,XSELL Technologies,Enterprise Software & Network Solutions,Data Scientist,90,109,144.5,Chicago,IL,200,51,7,1,0,0,0,0,0,0,0,0,1,0,1,1
+data engineer,4.2,IZEA,Advertising & Marketing,Data Engineer,90,109,144.5,Winter Park,FL,200,51,15,1,1,1,1,1,0,0,0,0,1,0,1,0
+senior data scientist,3.8,Juniper Networks,Telecommunications Services,Sr. ML/Data Scientist - AI/NLP/Chatbot,90,109,144.5,Cupertino,CA,10000,5001,25,1,1,0,1,1,0,0,1,0,1,0,0,0
+data scientist,5.0,Notion Labs,Enterprise Software & Network Solutions,Data Scientist,90,109,144.5,San Francisco,CA,50,1,5,0,0,0,0,0,0,0,0,0,1,0,1,0
+senior data engineer,4.9,Lendio,Lending,Senior Data Engineer,90,109,144.5,Lehi,UT,500,201,10,1,0,1,1,1,0,0,0,0,0,0,1,0
+data engineer,4.4,Direct Agents,Advertising & Marketing,Data Engineer,90,109,144.5,Culver City,CA,200,51,18,1,1,0,0,0,0,0,0,0,1,1,1,0
+data scientist,3.3,NAVEX Global,Computer Hardware & Software,Data Scientist,90,109,144.5,Lake Oswego,OR,5000,1001,9,1,0,0,1,0,1,0,0,0,1,0,1,0
+machine learning engineer,3.2,Triplebyte,Computer Hardware & Software,Machine Learning Engineer,90,109,144.5,Remote,,200,51,6,0,0,0,0,0,0,0,0,0,1,0,0,0
+machine learning engineer,3.2,Triplebyte,Computer Hardware & Software,Machine Learning Engineer,90,109,144.5,Remote,,200,51,6,0,0,0,0,0,0,0,0,0,1,0,0,0
+senior data engineer,4.9,Lendio,Lending,Senior Data Engineer,90,109,144.5,Lehi,UT,500,201,10,1,0,1,1,1,0,0,0,0,0,0,1,0
+data scientist,4.2,Upstart,Lending,Data Scientist,90,109,144.5,San Mateo,CA,500,201,9,1,0,0,0,0,0,0,0,0,1,0,0,0
+data analyst,4.5,Envision LLC,Staffing & Outsourcing,Data Analyst,90,109,144.5,San Francisco,CA,500,201,27,1,0,1,1,0,1,0,1,1,1,0,0,0
+data engineer,4.8,AppLovin,Video Games,Data Engineer,90,109,144.5,Palo Alto,CA,500,201,9,0,1,1,1,0,0,0,0,0,0,0,0,0
+data engineer,3.8,ISO New England,Utilities,Data Integration and Modeling Engineer,90,109,144.5,Holyoke,MA,1000,501,24,0,1,0,0,0,0,0,0,0,0,0,1,0
+data engineer,3.7,Relativity,Enterprise Software & Network Solutions,Tableau Data Engineer 20-0117,90,109,144.5,Chicago,IL,5000,1001,20,0,1,0,1,0,1,0,0,0,0,0,1,0
+senior data scientist,3.3,Tempo Automation,Electrical & Electronic Manufacturing,Senior Data Scientist,90,109,144.5,San Francisco,CA,200,51,8,1,0,1,1,1,1,0,0,0,1,0,1,0
+data scientist,3.3,MITRE,Federal Agencies,AI Data Scientist,90,109,144.5,McLean,VA,10000,5001,63,1,0,0,0,0,0,0,0,0,1,0,0,0
+machine learning engineer,5.0,"Expedition Technology, Inc.",Aerospace & Defense,Machine Learning Engineer,90,109,144.5,Herndon,VA,50,1,8,1,1,0,0,0,0,0,0,0,1,0,0,1
+data scientist,3.8,Evidera,Biotech & Pharmaceuticals,Research Scientist Patient Preferences (Remote),90,109,144.5,Bethesda,MD,1000,501,8,0,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.4,Plymouth Rock Assurance,Insurance Carriers,Data Scientist,90,109,144.5,Woodbridge,NJ,5000,1001,39,0,1,0,0,0,0,0,0,0,0,0,1,0
+data scientist,2.4,Crown Bioscience,Biotech & Pharmaceuticals,Scientist - Biomarker and Flow Cytometry,90,109,144.5,San Diego,CA,1000,501,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,2.9,GNS Healthcare,Biotech & Pharmaceuticals,Data Scientist,90,109,144.5,Cambridge,MA,200,51,21,0,0,0,0,1,0,0,0,0,1,0,1,0
+data science manager,4.4,OneMagnify,Advertising & Marketing,Analytics Manager,90,109,144.5,Dearborn,MI,500,201,54,0,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,2.9,SPECTRUM,"Cable, Internet & Telephone Providers",Data Scientist,90,109,144.5,Maryland Heights,MO,10000,10000,5,1,1,1,0,0,0,0,0,0,1,0,1,1
+senior data scientist,2.7,Advanced BioScience Laboratories,Biotech & Pharmaceuticals,Staff Scientist- Upstream PD,90,109,144.5,Rockville,MD,500,201,60,0,0,0,0,0,0,0,0,0,0,0,0,0
+data engineer,4.2,Procore Technologies,Computer Hardware & Software,Data Engineer,90,109,144.5,Carpinteria,CA,5000,1001,19,1,1,1,1,1,0,0,0,0,1,0,1,0
+senior data scientist,3.5,Ritedose,Biotech & Pharmaceuticals,Sr Scientist - Extractables & Leachables,90,109,144.5,Columbia,SC,500,201,26,0,1,0,0,0,0,0,0,0,0,0,0,0
+senior data scientist,4.2,bioMérieux,Biotech & Pharmaceuticals,Sr Data Scientist,90,109,144.5,Saint Louis,MO,10000,10000,58,1,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.5,Novetta,Enterprise Software & Network Solutions,Data Scientist,101,165,183.5,Herndon,VA,1000,501,9,1,1,0,0,1,0,0,0,0,1,0,0,1
+senior data scientist,4.4,Guzman & Griffin Technologies (GGTI),Federal Agencies,Experienced Data Scientist,101,165,183.5,Washington,DC,50,1,24,1,1,1,1,0,1,0,1,0,1,0,1,1
+data scientist,3.5,Leidos,Aerospace & Defense,Data Scientist,101,165,183.5,Fort Meade,MD,10000,10000,52,0,0,0,0,1,0,0,0,0,1,0,0,0
+data scientist,4.5,Demandbase,Computer Hardware & Software,Data Scientist,101,165,183.5,San Francisco,CA,500,201,15,1,0,0,1,1,0,0,0,0,1,0,1,1
+data analyst,4.1,Shelter Insurance,Insurance Carriers,Say Business Data Analyst,101,165,183.5,Columbia,MO,5000,1001,75,1,1,0,0,1,1,0,0,0,1,0,1,0
+data scientist,3.5,Maxar Technologies,Aerospace & Defense,Geospatial Data Scientist,101,165,183.5,Chantilly,VA,10000,5001,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+data analyst,2.7,USAC,Telecommunications Services,Data Analyst,101,165,183.5,Washington,DC,1000,501,24,1,1,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.4,General Dynamics Information Technology,IT Services,Computational Scientist,101,165,183.5,Vicksburg,MS,10000,10000,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.4,Offerpad,Real Estate,Data Scientist,101,165,183.5,Chandler,AZ,500,201,6,1,1,0,0,0,0,0,0,0,1,1,1,0
+senior data analyst,4.0,Autodesk,Computer Hardware & Software,Senior Data Analyst,101,165,183.5,San Francisco,CA,10000,5001,39,1,0,1,1,0,0,0,0,0,0,0,1,0
+senior data analyst,4.2,Autodesk,Research & Development,Senior Data Analyst,101,165,183.5,San Francisco,CA,10000,5001,53,1,0,1,1,0,1,0,0,0,1,0,1,0
+data engineer,3.5,Magna International Inc.,Unknown,Data Engineer,101,165,183.5,Birmingham,AL,10000,10000,64,1,0,1,1,1,0,0,0,0,0,0,1,0
+senior data analyst,2.3,United BioSource,Biotech & Pharmaceuticals,Sr Data Analyst,101,165,183.5,Blue Bell,PA,5000,1001,18,0,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,3.4,Kelly,Staffing & Outsourcing,Data Scientist,101,165,183.5,Chicago,IL,10000,5001,75,0,1,0,0,0,0,0,0,0,1,0,0,0
+machine learning engineer,3.3,Tempus Labs,Biotech & Pharmaceuticals,"Machine Learning Scientist - Bay Area, CA",101,165,183.5,Redwood City,CA,1000,501,6,1,0,0,0,1,0,0,1,1,1,0,1,0
+data scientist,4.7,C3.ai,Enterprise Software & Network Solutions,Data Scientist,101,165,183.5,Redwood City,CA,500,201,12,1,1,0,0,0,0,0,0,0,1,0,0,1
+senior data scientist,3.9,Quartet Health,Enterprise Software & Network Solutions,Senior Data Scientist - Algorithms,101,165,183.5,New York,NY,500,201,7,1,0,1,0,0,0,0,0,1,1,0,0,0
+data analyst,3.3,Midland Credit Management,Banks & Credit Unions,Data Analyst,101,165,183.5,San Diego,CA,5000,1001,68,1,1,0,0,0,0,0,0,0,0,0,1,0
+machine learning engineer,3.3,Tempus Labs,Biotech & Pharmaceuticals,Senior Data & Machine Learning Scientist,101,165,183.5,Chicago,IL,1000,501,6,1,0,0,0,1,0,0,1,1,1,0,1,1
+data engineer,4.4,Resurgent Capital Services,Venture Capital & Private Equity,Data Engineer,101,165,183.5,Cincinnati,OH,500,201,23,1,1,0,0,1,0,0,0,0,0,0,1,0
+data scientist,3.7,PNNL,Energy,"Data Scientist - Statistics, Early Career",56,97,104.5,Richland,WA,5000,1001,56,0,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.5,Buckman,Chemical Manufacturing,Data Scientist,56,97,104.5,Memphis,TN,5000,1001,76,1,0,1,0,0,0,0,0,0,1,0,1,0
+machine learning engineer,3.6,Buckman,Federal Agencies,Machine Learning Engineer,56,97,104.5,Memphis,TN,1000,501,54,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.8,Evidera,Biotech & Pharmaceuticals,Research Scientist - Patient-Centered Research (Remote),56,97,104.5,Bethesda,MD,1000,501,8,0,1,0,0,0,0,0,0,0,0,0,0,0
+data analyst,4.7,webfx.com,Advertising & Marketing,Jr. Business Data Analyst (position added 6/12/2020),56,97,104.5,Harrisburg,PA,500,201,24,0,1,0,0,0,0,0,0,0,0,0,0,0
+senior data scientist,3.5,Argo Group US,Insurance Carriers,Sr. Data Scientist II,56,97,104.5,New York,NY,5000,1001,73,1,0,1,1,1,0,0,1,1,0,0,1,0
+data scientist,3.3,BWX Technologies,Aerospace & Defense,Data Scientist,56,97,104.5,Oak Ridge,TN,10000,5001,171,1,0,0,0,0,0,0,0,0,0,0,0,1
+senior data analyst,3.9,Life360,Internet,Senior Data Analyst,56,97,104.5,San Francisco,CA,200,51,13,1,0,0,0,0,1,0,0,0,0,0,1,0
+data science manager,3.7,MassMutual,Insurance Carriers,Lead Data Scientist,56,97,104.5,Boston,MA,10000,5001,170,1,0,1,1,1,0,0,1,1,1,0,1,0
+data engineer,3.9,Natera,Biotech & Pharmaceuticals,Production Engineer - Statistics/Data Analysis,56,97,104.5,San Carlos,CA,1000,501,17,1,1,0,0,1,0,0,0,0,0,0,0,0
+data scientist,4.0,Genentech,Biotech & Pharmaceuticals,Statistical Scientist,56,97,104.5,South San Francisco,CA,10000,10000,45,1,1,0,0,1,0,0,0,0,1,0,0,1
+data scientist,4.2,Ntrepid,IT Services,Computational Behavioral Scientist,56,97,104.5,Herndon,VA,500,201,11,1,0,0,0,0,0,0,0,0,1,0,1,0
+data science manager,3.6,Constant Contact,Advertising & Marketing,Principal Data Scientist - Machine Learning,56,97,104.5,Waltham,MA,Unknown,Unknown,26,1,1,1,1,1,0,0,0,0,1,0,0,0
+data science manager,4.7,Sage Intacct,Computer Hardware & Software,Principal Machine Learning Scientist,56,97,104.5,San Francisco,CA,1000,501,22,1,0,0,0,0,0,0,1,1,1,0,1,0
+data engineer,4.1,Shape Security,IT Services,Data Engineer,56,97,104.5,Santa Clara,CA,200,51,10,1,0,0,0,1,0,0,0,0,0,0,0,0
+data science manager,4.0,AstraZeneca,Biotech & Pharmaceuticals,Principal Data Scientist,56,97,104.5,Gaithersburg,MD,10000,10000,108,1,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,5.0,SkillSoniq,Unknown,Data Scientist,56,97,104.5,San Francisco,CA,Unknown,Unknown,1,1,0,0,0,0,0,0,0,0,1,0,1,0
+senior data scientist,4.0,AstraZeneca,Biotech & Pharmaceuticals,Senior Data Scientist - R&D Oncology,56,97,104.5,New York,NY,10000,10000,108,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.3,Joby Aviation,Unknown,Data Scientist,56,97,104.5,San Carlos,CA,200,51,1,1,1,0,1,1,0,0,0,1,1,0,1,0
+senior data analyst,3.8,Cook Children's Health Care System,Health Care Services & Hospitals,"Health Plan Data Analyst, Sr",56,97,104.5,Fort Worth,TX,10000,5001,103,0,0,0,0,0,0,0,0,0,0,0,0,0
+data science manager,3.8,Rubius Therapeutics,Biotech & Pharmaceuticals,"Principal Scientist/Associate Director, Quality Control and Analytical Technologies",56,97,104.5,Smithfield,RI,500,201,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+data analyst,4.6,GreatAmerica Financial Services,Lending,Analytics - Business Assurance Data Analyst,56,97,104.5,Cedar Rapids,IA,1000,501,29,0,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,4.1,Upside Business Travel,Internet,Data Scientist - Contract,79,106,132.0,Remote,,200,51,6,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.4,Spectrum Communications and Consulting,Advertising & Marketing,Data Scientist,79,106,132.0,Chicago,IL,200,51,29,0,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,4.1,Coverent,Consulting,Data Scientist,79,106,132.0,McLean,VA,200,51,13,1,1,0,0,0,0,0,0,0,0,0,0,0
+machine learning engineer,3.7,Mteq,Aerospace & Defense,Machine Learning Engineer,79,106,132.0,Fort Belvoir,VA,1000,501,67,1,0,0,0,0,0,0,0,0,1,0,0,0
+data engineer,4.4,Rocket Lawyer,Computer Hardware & Software,Data Engineer,79,106,132.0,San Francisco,CA,200,51,13,1,1,1,0,0,0,0,0,0,0,0,1,0
+senior data scientist,3.9,Novartis,Biotech & Pharmaceuticals,"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",79,106,132.0,Cambridge,MA,10000,10000,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+data engineer,3.6,Alion Science & Technology,Research & Development,Data Engineer,79,106,132.0,Linthicum Heights,MD,5000,1001,20,1,1,0,0,1,0,0,0,0,0,0,1,0
+data science instructor,4.5,Novetta,Enterprise Software & Network Solutions,Data Science Instructor,79,106,132.0,Herndon,VA,1000,501,9,0,1,0,0,0,0,0,0,0,1,0,0,0
+senior data analyst,3.7,Protolabs,Miscellaneous Manufacturing,Senior Business Intelligence Analyst,79,106,132.0,Maple Plain,MN,5000,1001,22,0,0,0,0,0,0,0,0,0,0,0,1,0
+data analyst,2.9,Quest Integrity,Oil & Gas Services,In-Line Inspection Data Analyst,79,106,132.0,Tulsa,OK,500,201,25,0,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,5.0,Phoenix Operations Group,IT Services,Data Scientist - TS/SCI FSP or CI Required,79,106,132.0,Annapolis Junction,MD,50,1,10,1,0,0,1,0,0,0,0,0,1,0,0,0
+data scientist,3.4,Dice.com,Staffing & Outsourcing,Data Scientist,79,106,132.0,Newton,MA,500,201,31,1,1,0,0,1,0,0,0,0,1,0,1,1
+senior data scientist,3.5,Maxar Technologies,Aerospace & Defense,Senior Data Scientist,79,106,132.0,Herndon,VA,10000,5001,1,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,5.0,Phoenix Operations Group,IT Services,Data Scientist - TS/SCI Required,79,106,132.0,Baltimore,MD,50,1,10,1,0,0,1,0,0,0,1,1,1,0,0,0
+data engineer,4.8,Klaviyo,Computer Hardware & Software,Data Science Software Engineer,79,106,132.0,Boston,MA,500,201,9,1,0,0,0,0,0,0,1,1,1,0,0,0
+data engineer,3.9,Southwest Research Institute,Research & Development,ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,79,106,132.0,Oklahoma City,OK,5000,1001,74,1,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.0,AstraZeneca,Biotech & Pharmaceuticals,AI Ops Data Scientist,79,106,132.0,Gaithersburg,MD,10000,10000,108,1,0,1,1,1,0,0,0,0,1,0,1,0
+senior data analyst,4.3,The Buffalo Group,IT Services,"Intelligence Data Analyst, Senior",79,106,132.0,Fort Belvoir,VA,1000,501,11,1,0,0,0,0,0,0,0,0,0,0,0,0
+data science manager,3.5,Central California Alliance for Health,Health Care Services & Hospitals,Analytics Manager - Data Mart,79,106,132.0,Scotts Valley,CA,1000,501,25,0,0,0,0,0,1,0,0,0,0,0,1,0
+data modeler (analytical systems),3.7,MassMutual,Insurance Carriers,Data Modeler (Analytical Systems),79,106,132.0,Boston,MA,10000,5001,170,0,1,1,1,0,0,0,0,0,0,0,1,0
+machine learning engineer,3.3,Tempus Labs,Biotech & Pharmaceuticals,"Senior Machine Learning Scientist - Bay Area, CA",79,106,132.0,Redwood City,CA,1000,501,6,1,0,0,0,1,0,0,1,1,1,0,1,0
+data analyst,3.1,Security Finance Corporation of Spartanburg,Lending,Report Writer-Data Analyst,79,106,132.0,Spartanburg,SC,5000,1001,66,0,0,0,0,0,0,0,0,0,0,0,1,0
+machine learning engineer,4.3,PulsePoint,Internet,Data Scientist/Machine Learning,71,123,132.5,New York,NY,200,51,10,1,0,1,1,0,0,0,1,1,1,0,0,0
+data scientist,4.2,LSQ,Investment Banking & Asset Management,Data Scientist - Risk,71,123,132.5,Orlando,FL,200,51,25,1,1,1,1,1,1,0,0,0,0,1,0,0
+data engineer,4.4,Resurgent Capital Services,Venture Capital & Private Equity,Data Engineer,71,123,132.5,Cincinnati,OH,500,201,23,1,1,0,0,1,0,0,0,0,0,0,1,0
+senior data scientist,3.6,Opendoor,Real Estate,Staff Data Scientist - Pricing,71,123,132.5,San Francisco,CA,1000,501,7,1,0,0,0,1,0,0,0,0,0,0,1,0
+data scientist,4.5,Global Data Management Inc,IT Services,Data Scientist,71,123,132.5,Hartford,CT,200,51,13,1,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.0,Photon Infotech,IT Services,Data Scientist,71,123,132.5,Chicago,IL,5000,1001,22,1,1,1,1,0,0,0,0,0,1,0,1,0
+data scientist,5.0,REE,Transportation Equipment Manufacturing,Data Scientist,71,123,132.5,United States,,200,51,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+machine learning engineer,3.6,Riverside Research Institute,Federal Agencies,Machine Learning Engineer,71,123,132.5,Beavercreek,OH,1000,501,54,1,0,0,0,0,0,0,0,0,1,0,0,0
+data analyst,3.6,T. Rowe Price,Investment Banking & Asset Management,Equity Data Insights Analyst - Quantitative Analyst,71,123,132.5,Baltimore,MD,10000,5001,84,1,1,0,0,0,1,0,0,0,1,0,0,0
+data scientist,,"Encode, Inc.",IT Services,Data Scientist,71,123,132.5,Norfolk,VA,50,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+data scientist,3.8,Evidera,Biotech & Pharmaceuticals,Research Scientist - Patient-Centered Research (Remote),71,123,132.5,Bethesda,MD,1000,501,8,0,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.3,BWX Technologies,Aerospace & Defense,Data Scientist,71,123,132.5,Oak Ridge,TN,10000,5001,171,1,0,0,0,0,0,0,0,0,0,0,0,1
+data analyst,3.8,Brighthouse Financial,Insurance Carriers,Operations Data Analyst,71,123,132.5,Charlotte,NC,5000,1001,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+senior data scientist,3.5,Argo Group US,Insurance Carriers,Sr. Data Scientist II,71,123,132.5,New York,NY,5000,1001,73,1,0,1,1,1,0,0,1,1,0,0,1,0
+data scientist,3.3,II-VI Incorporated,Telecommunications Manufacturing,Data Scientist,71,123,132.5,Champaign,IL,10000,10000,50,0,1,0,0,0,0,0,0,0,0,0,1,0
+data scientist,4.6,Surya Systems,Computer Hardware & Software,Data Scientist,71,123,132.5,San Francisco,CA,50,1,1,1,0,1,0,0,1,0,0,0,0,0,1,0
+data scientist,3.8,PayPal,Internet,Data Scientist,71,123,132.5,Texas,,10000,10000,23,1,1,1,1,0,0,0,0,0,1,0,0,0
+senior data analyst,3.9,Life360,Internet,Senior Data Analyst,71,123,132.5,San Francisco,CA,200,51,13,1,0,0,0,0,1,0,0,0,0,0,1,0
+data scientist,3.9,Predictive Research Inc,Consulting,Data Scientist,71,123,132.5,Plano,TX,50,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
+data scientist,4.7,Oversight Systems,Computer Hardware & Software,Data Scientist,90,124,152.0,Atlanta,GA,200,51,18,1,1,0,0,0,0,0,0,1,1,0,1,1
+senior data scientist,4.8,Acuity Insurance,Insurance Carriers,Senior Research Statistician- Data Scientist,90,124,152.0,Sheboygan,WI,5000,1001,96,0,0,0,0,0,0,0,0,0,0,0,0,0
+data engineer,3.1,1010data,Computer Hardware & Software,Software Data Engineer,90,124,152.0,New York,NY,500,201,21,1,1,0,0,1,0,0,0,0,0,0,1,0
+data scientist,3.6,Gigya,Enterprise Software & Network Solutions,Data Scientist,90,124,152.0,Palo Alto,CA,500,201,15,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,5.0,Genesis Research,Biotech & Pharmaceuticals,Real World Evidence (RWE) Scientist,90,124,152.0,Hoboken,NJ,50,1,12,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.7,Sanofi,Biotech & Pharmaceuticals,Data Scientist,90,124,152.0,Cambridge,MA,10000,10000,48,1,0,0,0,0,1,0,0,0,1,0,1,1
+data scientist,3.7,XPO Logistics,Transportation Management,Data Scientist,90,124,152.0,Lebanon,IN,10000,10000,10,1,0,0,0,0,0,0,1,1,1,0,1,1
+data scientist,3.9,Trace Data,Insurance Carriers,Data Scientist,90,124,152.0,Oakland,CA,200,51,21,1,0,0,1,0,0,0,0,0,1,0,1,1
+data scientist,4.3,Descript,Unknown,Data Scientist,90,124,152.0,San Francisco,CA,50,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.2,Rincon Research Corporation,Aerospace & Defense,Computer Scientist 1,90,124,152.0,Melbourne,FL,500,201,38,1,0,0,0,0,0,0,0,0,1,0,0,0
+data science manager,3.7,MassMutual,Insurance Carriers,Lead Data Scientist,90,124,152.0,Boston,MA,10000,5001,170,1,0,1,1,1,0,0,1,1,1,0,1,0
+data scientist,4.0,Better Hire,Unknown,Data Scientist,90,124,152.0,Birmingham,AL,50,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.3,Parker Hannifin,Industrial Manufacturing,Data Scientist,90,124,152.0,Cleveland,OH,10000,10000,104,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,4.1,Gallup,Consulting,Data Scientist,90,124,152.0,New York,NY,5000,1001,86,1,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.3,Insider Inc,News Outlet,Data Scientist,90,124,152.0,New York,NY,500,201,14,1,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.9,Rapid Value Solutions,IT Services,Data Scientist,90,124,152.0,San Francisco,CA,500,201,12,1,0,0,0,1,0,0,0,0,1,0,1,1
+data scientist,3.1,Battelle,Research & Development,Environmental Data Science,90,124,152.0,Norwell,MA,10000,10000,92,0,1,0,0,0,0,0,0,0,0,0,1,0
+data scientist,4.2,Ntrepid,IT Services,Computational Behavioral Scientist,90,124,152.0,Herndon,VA,500,201,11,1,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,5.0,"The Drive Media, Inc.",Unknown,Data Scientist,90,124,152.0,New York,NY,Unknown,Unknown,1,1,1,0,0,0,0,0,0,0,1,0,1,0
+senior data engineer,2.9,Affinity Solutions,Advertising & Marketing,Staff BI and Data Engineer,90,124,152.0,San Jose,CA,200,51,23,1,0,0,1,0,1,0,0,0,0,0,1,0
+data science manager,4.7,Sage Intacct,Computer Hardware & Software,Principal Machine Learning Scientist,90,124,152.0,San Francisco,CA,1000,501,22,1,0,0,0,0,0,0,1,1,1,0,1,0
+data science manager,3.6,Constant Contact,Advertising & Marketing,Principal Data Scientist - Machine Learning,90,124,152.0,Waltham,MA,Unknown,Unknown,26,1,1,1,1,1,0,0,0,0,1,0,0,0
+data scientist,3.8,MIT Lincoln Laboratory,Aerospace & Defense,Data Scientist-Human Resources,91,150,166.0,Lexington,MA,5000,1001,70,1,0,1,1,0,0,0,0,0,1,0,1,0
+data scientist,3.3,Puget Sound Energy,Utilities,Associate Data Scientist,91,150,166.0,Bothell,WA,5000,1001,22,0,1,1,1,0,0,0,0,0,1,0,1,0
+data scientist,3.7,Pacific Northwest National Laboratory,Energy,"Data Scientist - Statistics, Mid-Career",91,150,166.0,Richland,WA,5000,1001,56,0,0,0,0,0,0,0,0,0,1,0,0,0
+data science manager,3.8,Analysis Group,Consulting,Director of Data Science,91,150,166.0,Boston,MA,5000,1001,40,1,1,0,0,1,0,0,0,0,0,0,1,0
+data scientist,3.2,US Pharmacopeia,Biotech & Pharmaceuticals,Data Scientist,91,150,166.0,Rockville,MD,5000,1001,201,1,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,4.6,Itlize Global,IT Services,Data Scientist,91,150,166.0,Piscataway,NJ,500,201,11,1,0,1,1,0,0,0,0,0,1,0,0,0
+data scientist,3.5,eBay,Internet,Data Scientist,91,150,166.0,San Jose,CA,10000,10000,26,1,0,1,0,0,1,0,0,0,0,0,1,0
+data engineer,5.0,Paige,Enterprise Software & Network Solutions,"Data Engineer, Digital & Comp Pathology",91,150,166.0,New York,NY,50,1,3,1,1,0,0,1,0,0,0,0,0,0,1,0
+data engineer,4.1,Shape Security,IT Services,Data Engineer,91,150,166.0,Santa Clara,CA,200,51,10,1,0,0,0,1,0,0,0,0,0,0,0,0
+data science manager,4.1,ABIOMED,Biotech & Pharmaceuticals,"Manager / Lead, Data Science & Analytics",91,150,166.0,Danvers,MA,5000,1001,40,1,1,0,0,0,1,0,0,0,1,1,1,0
+data scientist,3.5,Comcast,Unknown,Data Scientist,91,150,166.0,New York,NY,10000,10000,58,1,0,0,0,1,1,0,0,0,1,0,1,0
+data scientist,3.2,"Metronome, LLC",IT Services,Data Scientist,91,150,166.0,Vienna,VA,200,51,10,1,0,0,1,0,0,0,0,0,0,0,1,1
+data scientist,5.0,SkillSoniq,Unknown,Data Scientist,91,150,166.0,San Francisco,CA,Unknown,Unknown,1,1,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,4.7,Lawrence Livermore National Lab,Federal Agencies,Data Scientist,91,150,166.0,Livermore,CA,5000,1001,69,1,1,0,0,0,0,0,0,0,1,0,0,0
+data analyst,3.8,FHLBank Pittsburgh,Banks & Credit Unions,Diversity and Inclusion Data Analyst,91,150,166.0,Pittsburgh,PA,500,201,89,0,0,0,0,1,1,0,0,0,0,0,0,0
+data scientist,3.6,Jacobs,Architectural & Engineering Services,Data Scientist,91,150,166.0,Herndon,VA,10000,10000,74,1,0,1,1,1,1,0,0,0,1,0,1,1
+data scientist,4.8,Klaviyo,Computer Hardware & Software,Data Scientist,91,150,166.0,Boston,MA,500,201,9,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.3,Underwriters Laboratories,Consulting,Data Scientist,91,150,166.0,Northbrook,IL,10000,10000,127,0,0,0,1,0,0,0,0,0,1,0,0,0
+data scientist,3.7,Altus Group,Real Estate,Data Scientist,91,150,166.0,Irvine,CA,5000,1001,16,1,1,0,0,1,1,0,0,0,0,0,1,0
+data scientist,5.0,Jobot,Staffing & Outsourcing,Data Scientist,91,150,166.0,Irvine,CA,200,51,3,1,1,0,0,0,1,0,0,0,0,1,1,0
+data scientist,,Trovetechs Inc,Unknown,Data Scientist,91,150,166.0,San Francisco,CA,Unknown,Unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+senior data analyst,3.4,Edmunds.com,Internet,Senior Analyst/Data Scientist,141,225,253.5,Santa Monica,CA,1000,501,55,1,1,0,0,1,1,0,0,0,0,0,1,0
+data scientist,5.0,Cohere Health,IT Services,Data Scientist,141,225,253.5,Boston,MA,50,1,2,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,,Trovetechs Inc,Unknown,Data Scientist,141,225,253.5,San Francisco,CA,Unknown,Unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+senior data scientist,4.0,AstraZeneca,Biotech & Pharmaceuticals,Senior Data Scientist - R&D Oncology,141,225,253.5,New York,NY,10000,10000,108,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.2,Oshkosh Corporation,Transportation Equipment Manufacturing,Data Scientist,141,225,253.5,Oshkosh,WI,10000,10000,104,1,1,1,1,0,0,0,0,0,0,0,1,0
+data scientist,4.3,Joby Aviation,Unknown,Data Scientist,141,225,253.5,San Carlos,CA,200,51,1,1,1,0,1,1,0,0,0,1,1,0,1,0
+data scientist,3.4,Mackin,Architectural & Engineering Services,Data Scientist,141,225,253.5,Menlo Park,CA,200,51,61,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,,PETADATA,Unknown,Data Scientist,141,225,253.5,San Francisco,CA,200,51,1,1,1,0,0,0,1,0,0,0,0,1,1,0
+data scientist,4.4,VBeyond Corporation,Staffing & Outsourcing,Data Scientist,141,225,253.5,Dallas,TX,500,201,15,1,0,0,0,0,0,0,0,0,1,0,0,0
+machine learning engineer,3.5,Leidos,Aerospace & Defense,Data Scientist Machine Learning,141,225,253.5,Arlington,VA,10000,10000,52,1,0,0,0,1,0,0,0,0,1,0,0,1
+data scientist,3.7,Take-Two,Video Games,Data Scientist,141,225,253.5,San Francisco,CA,5000,1001,28,1,1,0,1,1,1,0,0,0,1,0,1,1
+data scientist,3.7,Colony Brands,Food & Beverage Stores,Data Scientist,141,225,253.5,Monroe,WI,1000,501,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,4.1,Capio Group,Health Care Services & Hospitals,Data Scientist,141,225,253.5,Sacramento,CA,10000,10000,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.4,SleePare,Other Retail Stores,Data Scientist,141,225,253.5,New York,NY,50,1,4,1,0,0,1,0,0,0,0,0,0,0,1,1
+data analyst,4.5,ShorePoint,IT Services,Data Analyst,141,225,253.5,Reston,VA,50,1,4,0,1,0,0,0,1,0,0,0,1,1,1,0
+data scientist,3.5,Dolphin,"Hotels, Motels, & Resorts",Data Scientist,141,225,253.5,New York,NY,5000,1001,31,1,0,0,1,0,0,0,0,0,1,0,1,0
+data scientist,3.6,TE Connectivity,Electrical & Electronic Manufacturing,Data Scientist,141,225,253.5,Hampton,VA,10000,10000,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.2,State of Virginia,State & Regional Agencies,Data Scientist,141,225,253.5,Richmond,VA,10000,10000,233,1,0,1,0,0,0,0,0,0,0,0,1,0
+data scientist,3.7,TA Digital,Computer Hardware & Software,Data Scientist,141,225,253.5,New York,NY,1000,501,21,1,0,0,0,1,0,0,0,0,1,0,1,1
+data scientist,4.0,Market America Inc,Other Retail Stores,Data Scientist,141,225,253.5,Monterey,CA,1000,501,29,1,1,1,1,0,0,0,0,0,1,0,0,0
+data scientist,3.2,Triplebyte,Computer Hardware & Software,Data Scientist,145,225,257.5,Chicago,IL,200,51,6,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.5,Kingfisher Systems,Federal Agencies,Data Scientist,145,225,257.5,McLean,VA,200,51,16,1,0,0,0,0,1,0,0,0,1,0,1,0
+data scientist,3.4,TrueAccord,Enterprise Software & Network Solutions,Chief Scientist,145,225,257.5,Remote,,200,51,8,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.9,ALTA IT Services,IT Services,Data Scientist,145,225,257.5,Woodlawn,MD,500,201,17,1,0,0,0,0,1,0,0,0,1,0,1,0
+data scientist,3.2,Kollasoft Inc.,IT Services,Data Scientist,145,225,257.5,United States,,50,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,5.0,Kollasoft Inc.,Unknown,Data Scientist,145,225,257.5,New York,NY,Unknown,Unknown,1,1,1,0,0,0,0,0,0,0,1,0,0,1
+data scientist,3.4,ASRC Federal Holding Company,Aerospace & Defense,Data Scientist,145,225,257.5,Reston,VA,10000,5001,18,0,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.4,Adwait Algorithm,IT Services,Data Scientist,145,225,257.5,New York,NY,200,51,6,1,0,1,1,0,0,0,0,0,1,0,1,1
+senior data analyst,3.8,Cook Children's Health Care System,Health Care Services & Hospitals,"Health Plan Data Analyst, Sr",145,225,257.5,Fort Worth,TX,10000,5001,103,0,0,0,0,0,0,0,0,0,0,0,0,0
+data science manager,3.8,Rubius Therapeutics,Biotech & Pharmaceuticals,"Principal Scientist/Associate Director, Quality Control and Analytical Technologies",145,225,257.5,Smithfield,RI,500,201,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.5,Cambridge FX,Financial Transaction Processing,Data Scientist,145,225,257.5,Atlanta,GA,500,201,29,1,1,0,0,0,1,0,0,0,1,0,0,0
+senior data scientist,3.8,Metromile,Insurance Carriers,Senior Data Scientist,145,225,257.5,San Francisco,CA,500,201,10,1,0,0,1,1,0,0,0,0,1,0,1,0
+data scientist,3.9,Criteo,Internet,Data Scientist,145,225,257.5,Ann Arbor,MI,5000,1001,16,1,0,1,1,0,0,0,0,0,1,0,0,0
+data scientist,3.4,Advance Sourcing Concepts,Unknown,Data Scientist,145,225,257.5,Pittsburgh,PA,200,51,1,1,0,0,0,1,0,0,0,0,1,0,1,0
+data scientist,3.8,Enterprise Solutions Inc,Staffing & Outsourcing,Data Scientist,145,225,257.5,New York,NY,200,51,21,1,1,0,0,0,1,0,0,0,1,0,0,0
+data analyst,4.6,GreatAmerica Financial Services,Lending,Analytics - Business Assurance Data Analyst,145,225,257.5,Cedar Rapids,IA,1000,501,29,0,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,,Microagility,Consulting,Data Scientist,145,225,257.5,New York,NY,50,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0
+data scientist,4.6,"Conch Technologies, Inc",Consulting,Data Scientist,145,225,257.5,Concord,CA,200,51,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.9,GSK,Biotech & Pharmaceuticals,"Development Scientist, Voltaren",145,225,257.5,Richmond,VA,10000,10000,191,0,0,0,0,1,0,0,0,0,0,0,0,0
+data scientist,,"Rainmaker Resources, LLC",Unknown,Data Scientist,145,225,257.5,Cincinnati,OH,50,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.7,GovTech,Federal Agencies,Data Scientist,79,147,152.5,San Francisco,CA,5000,1001,5,1,1,0,0,0,1,0,0,0,1,0,0,0
+data scientist,3.3,Intellectual Ventures,Investment Banking & Asset Management,Data Scientist,79,147,152.5,Bellevue,WA,1000,501,21,1,1,0,0,0,0,0,0,0,1,0,0,0
+data engineer,4.4,Rocket Lawyer,Computer Hardware & Software,Data Engineer,79,147,152.5,San Francisco,CA,200,51,13,1,1,1,0,0,0,0,0,0,0,0,1,0
+data scientist,3.7,22nd Century Technologies,IT Services,Data Scientist,79,147,152.5,Oakland,CA,5000,1001,24,0,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.3,Huxley,Staffing & Outsourcing,Data Scientist,79,147,152.5,San Francisco,CA,500,201,26,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.4,FM Systems,Computer Hardware & Software,Data Scientist,79,147,152.5,Boston,MA,200,51,37,1,1,0,1,1,0,0,0,0,0,0,1,0
+data scientist,,B4Corp,IT Services,Data Scientist,79,147,152.5,Reston,VA,200,51,1,1,1,0,0,0,0,0,0,0,1,0,1,0
+machine learning engineer,3.7,Mteq,Aerospace & Defense,Machine Learning Engineer,79,147,152.5,Fort Belvoir,VA,1000,501,67,1,0,0,0,0,0,0,0,0,1,0,0,0
+data science manager,3.7,Blue Cross and Blue Shield of North Carolina,Insurance Carriers,Principal Data & Analytics Platform Engineer,79,147,152.5,Durham,NC,5000,1001,88,1,1,0,1,1,0,0,0,0,0,0,1,0
+machine learning engineer,4.8,Jane Street,Investment Banking & Asset Management,Machine Learning Engineer/Scientist,79,147,152.5,New York,NY,1000,501,21,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,5.0,SSATI,Computer Hardware & Software,Data Scientist,79,147,152.5,McLean,VA,50,1,18,1,1,0,0,0,0,0,0,0,1,0,1,0
+senior data scientist,3.9,Novartis,Biotech & Pharmaceuticals,"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",79,147,152.5,Cambridge,MA,10000,10000,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.4,Solving IT International Inc,Unknown,Data Scientist,79,147,152.5,Chicago,IL,1000,501,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.3,The Davey Tree Expert Company,Timber Operations,Data Scientist,79,147,152.5,Kent,OH,10000,10000,141,1,1,0,0,0,0,0,0,0,1,0,1,1
+data scientist,4.6,Centauri,Aerospace & Defense,Data Scientist,79,147,152.5,Reston,VA,1000,501,22,0,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,,Stride Search,Unknown,Data Scientist,79,147,152.5,San Francisco,CA,50,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+machine learning engineer,2.6,Software Engineering Institute,Colleges & Universities,Machine Learning Engineer,79,147,152.5,Pittsburgh,PA,1000,501,37,1,0,0,0,0,0,0,0,0,1,0,0,0
+data analyst,3.8,Dermalogica,Consumer Products Manufacturing,Data Analyst - Unilever Prestige,79,147,152.5,Carson,CA,500,201,35,1,0,0,0,0,1,0,0,0,0,0,1,0
+data scientist,4.8,TechProjects,IT Services,Data Scientist,79,147,152.5,New York,NY,50,1,10,1,1,0,0,0,1,0,0,0,0,0,1,0
+data science manager,3.9,7Park Data,Research & Development,"VP, Data Science",79,147,152.5,New York,NY,200,51,9,1,1,0,1,0,0,0,0,0,1,0,0,1
+data scientist,4.0,Netskope,Enterprise Software & Network Solutions,Data Scientist,122,146,195.0,Santa Clara,CA,1000,501,9,1,1,0,1,0,0,0,0,0,1,0,0,0
+data scientist,4.2,Eversight,Enterprise Software & Network Solutions,Data Scientist,122,146,195.0,Palo Alto,CA,200,51,8,1,0,0,0,0,0,0,0,0,1,0,0,1
+senior data analyst,3.7,Protolabs,Miscellaneous Manufacturing,Senior Business Intelligence Analyst,122,146,195.0,Maple Plain,MN,5000,1001,22,0,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.0,Ameritas Life Insurance Corp,Insurance Agencies & Brokerages,Data Scientist,122,146,195.0,Cincinnati,OH,5000,1001,134,0,0,0,0,0,0,0,0,0,0,0,0,0
+data engineer,3.5,Western Digital,Computer Hardware & Software,Data Engineer - Kafka,122,146,195.0,San Jose,CA,10000,10000,51,1,0,1,1,1,0,0,0,0,1,0,0,1
+data scientist,2.9,"Shimento, Inc.",Unknown,Data Scientist,122,146,195.0,Santa Clara,CA,50,1,1,1,0,1,1,0,0,0,0,0,1,0,1,1
+data scientist,5.0,Averity,Staffing & Outsourcing,Data Scientist,122,146,195.0,New York,NY,50,1,7,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.7,Praxis Engineering,Computer Hardware & Software,Data Scientist,122,146,195.0,Chantilly,VA,500,201,19,0,0,0,0,1,0,0,0,0,0,0,1,0
+data scientist,4.5,Johns Hopkins University Applied Physics Laboratory,Aerospace & Defense,Decision Scientist,122,146,195.0,Laurel,MD,10000,5001,79,0,1,0,1,0,0,0,0,0,0,0,0,0
+data scientist,4.9,Cambridge Mobile Telematics,Enterprise Software & Network Solutions,Data Scientist,122,146,195.0,Cambridge,MA,50,1,11,1,0,0,1,1,0,0,1,1,1,0,0,0
+data engineer,4.6,Blend360,Consulting,Data Science All Star Program - Data Engineer Track,122,146,195.0,Columbia,MD,200,51,19,1,0,1,1,1,0,0,0,0,1,0,1,0
+data scientist,5.0,Phoenix Operations Group,IT Services,Data Scientist - TS/SCI FSP or CI Required,122,146,195.0,Annapolis Junction,MD,50,1,10,1,0,0,1,0,0,0,0,0,1,0,0,0
+data analyst,3.9,Nolij Consulting,Consulting,Data Analyst,122,146,195.0,Falls Church,VA,200,51,9,1,1,0,0,0,1,0,0,0,0,0,1,0
+senior data scientist,3.5,Maxar Technologies,Aerospace & Defense,Senior Data Scientist,122,146,195.0,Herndon,VA,10000,5001,1,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,4.3,Quick Base,Enterprise Software & Network Solutions,Data Scientist,112,116,170.0,Cambridge,MA,500,201,22,1,1,0,0,0,1,0,0,1,1,1,1,0
+data scientist,3.7,Takeda,Biotech & Pharmaceuticals,Data Scientist,112,116,170.0,Cambridge,MA,10000,10000,240,1,0,0,1,0,0,0,0,0,1,0,1,1
+data scientist,3.5,Maxar Technologies,Aerospace & Defense,Data Scientist,112,116,170.0,Herndon,VA,10000,5001,1,1,0,1,1,0,1,0,0,0,1,0,1,1
+data engineer,3.9,Southwest Research Institute,Research & Development,ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,112,116,170.0,Oklahoma City,OK,5000,1001,74,1,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.7,Compass Consulting Group,Consulting,Data Scientist,112,116,170.0,Thousand Oaks,CA,200,51,13,1,0,0,0,0,0,0,0,0,1,0,1,1
+data engineer,4.8,Klaviyo,Computer Hardware & Software,Data Science Software Engineer,112,116,170.0,Boston,MA,500,201,9,1,0,0,0,0,0,0,1,1,1,0,0,0
+data scientist,4.0,AstraZeneca,Biotech & Pharmaceuticals,AI Ops Data Scientist,112,116,170.0,Gaithersburg,MD,10000,10000,108,1,0,1,1,1,0,0,0,0,1,0,1,0
+data scientist,4.4,"SolutionIT, Inc.",Unknown,Data Scientist,112,116,170.0,Edison,NJ,200,51,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.2,Perspecta,Aerospace & Defense,Data Scientist,112,116,170.0,Adelphi,MD,10000,10000,3,1,0,1,0,0,0,0,0,0,1,0,0,0
+data scientist,4.5,Smith Hanley Associates,Staffing & Outsourcing,Data Scientist,112,116,170.0,Washington,DC,50,1,41,1,0,0,0,0,0,0,0,0,1,0,1,0
+machine learning engineer,3.5,Allen Institute,Research & Development,Scientist - Machine Learning,112,116,170.0,Seattle,WA,500,201,18,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.4,Eliassen Group,Staffing & Outsourcing,Data Scientist,112,116,170.0,Plano,TX,5000,1001,32,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.1,Bayside Solutions,Staffing & Outsourcing,Data Scientist,112,116,170.0,Sunnyvale,CA,50,1,20,1,1,0,0,0,1,0,0,0,0,0,1,0
+senior data scientist,3.5,Evolve Vacation Rental,Travel Agencies,Sr. Data Scientist,112,116,170.0,Denver,CO,500,201,10,1,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.8,AgreeYa Solutions,IT Services,Data Scientist,112,116,170.0,Thousand Oaks,CA,5000,1001,22,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.7,Carolina Power & Light Co,Energy,Data Scientist,112,116,170.0,McLean,VA,10000,5001,113,1,1,0,0,0,0,0,0,0,1,0,1,0
+data science manager,3.5,Central California Alliance for Health,Health Care Services & Hospitals,Analytics Manager - Data Mart,112,116,170.0,Scotts Valley,CA,1000,501,25,0,0,0,0,0,1,0,0,0,0,0,1,0
+data modeler (analytical systems),3.7,MassMutual,Insurance Carriers,Data Modeler (Analytical Systems),112,116,170.0,Boston,MA,10000,5001,170,0,1,1,1,0,0,0,0,0,0,0,1,0
+data engineer,5.0,"New Iron Group, Inc.",Computer Hardware & Software,Applied AI Scientist / Engineer,112,116,170.0,Boston,MA,50,1,18,1,0,0,0,0,0,0,0,0,1,0,1,1
+data engineer,4.0,Travelers,Insurance Carriers,"Data Engineer (Analytics, SQL, Python, AWS)",112,116,170.0,Hartford,CT,10000,10000,168,1,0,0,1,1,0,0,0,0,0,0,1,0
+senior data analyst,3.6,Twitch,Internet,Senior Data Analyst - Finance & Platform Analytics,112,116,170.0,San Francisco,CA,5000,1001,10,1,0,0,0,0,1,0,0,0,0,0,1,0
+senior data scientist,4.8,Klaviyo,Computer Hardware & Software,Senior Data Scientist,110,163,191.5,Boston,MA,500,201,9,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.8,GutCheck,Advertising & Marketing,Market Research Data Scientist,110,163,191.5,Denver,CO,200,51,12,0,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.6,Biogen,Biotech & Pharmaceuticals,IT Partner Digital Health Technology and Data Science,110,163,191.5,Cambridge,MA,10000,5001,43,0,1,0,0,0,0,0,0,0,0,0,0,0
+machine learning engineer,3.3,Tempus Labs,Biotech & Pharmaceuticals,"Senior Machine Learning Scientist - Bay Area, CA",110,163,191.5,Redwood City,CA,1000,501,6,1,0,0,0,1,0,0,1,1,1,0,1,0
+data engineer,4.1,Mentor Graphics,Computer Hardware & Software,"Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG",110,163,191.5,Fremont,CA,10000,5001,40,1,1,0,0,0,0,0,0,0,1,0,0,0
+senior data scientist,3.6,WCG (WIRB-Copernicus Group),Biotech & Pharmaceuticals,Senior Clinical Data Scientist Programmer,110,163,191.5,Hamilton,NJ,5000,1001,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+data engineer,4.5,Kingfisher Systems,Federal Agencies,Data Engineer,110,163,191.5,Falls Church,VA,200,51,16,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.3,Tempus Labs,Biotech & Pharmaceuticals,Computer Vision / Deep Learning Scientist,110,163,191.5,Chicago,IL,1000,501,6,0,0,0,0,1,0,0,0,0,1,0,0,1
+data engineer,3.4,Liberty Mutual Insurance,Insurance Carriers,Data Solutions Engineer - Data Modeler,110,163,191.5,Indianapolis,IN,10000,10000,109,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,4.3,Visionary Integration Professionals,IT Services,Data Scientist,110,163,191.5,Washington,DC,1000,501,25,0,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.5,Maxar Technologies,Aerospace & Defense,Data Scientist (TS/SCI w/ Poly),110,163,191.5,Herndon,VA,10000,5001,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+data engineer,4.0,Dynetics,Aerospace & Defense,Weapons and Sensors Engineer/Scientist,110,163,191.5,Huntsville,AL,5000,1001,47,1,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.5,Systems & Technology Research,Aerospace & Defense,Applied Computer Scientist,110,163,191.5,Woburn,MA,500,201,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+senior data analyst,4.5,Novetta,Enterprise Software & Network Solutions,Senior Data Analyst,110,163,191.5,Herndon,VA,1000,501,9,1,1,0,0,0,0,0,0,0,1,0,1,0
+data engineer,3.9,Navy Federal Credit Union,Banks & Credit Unions,Cloud Data Engineer (Azure),110,163,191.5,Merrifield,VA,10000,10000,88,0,0,0,0,0,1,0,0,0,0,1,1,0
+data science manager,4.0,Exact Sciences Corporation,Health Care Services & Hospitals,"Lead Certified Clinical Laboratory Scientist - Saturday - Tuesday, 8:00pm - 6:30am shift",110,163,191.5,Madison,WI,5000,1001,26,0,0,0,0,0,0,0,0,0,0,0,0,0
+senior data analyst,3.6,Community Behavioral Health,Health Care Services & Hospitals,Sr. Data Analyst,110,163,191.5,Philadelphia,PA,500,201,27,0,1,0,0,0,1,0,0,0,0,1,1,0
+senior data scientist,3.3,Reynolds American,Consumer Products Manufacturing,Senior Scientist - Toxicologist - Product Integrity (Stewardship),110,163,191.5,Winston-Salem,NC,10000,5001,146,0,1,0,0,0,0,0,0,0,0,0,0,0
+machine learning engineer,5.0,LifeOmic,Enterprise Software & Network Solutions,Senior Machine Learning Engineer,110,163,191.5,Raleigh,NC,200,51,5,0,0,0,1,1,0,0,0,0,1,0,0,0
+data scientist,4.1,Twitter,Internet,Product Data Scientist - Ads Data Science,124,198,223.0,San Francisco,CA,5000,1001,15,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.2,Postmates - Corporate HQ,Express Delivery Services,Data Scientist,124,198,223.0,San Francisco,CA,5000,1001,10,1,0,0,1,0,0,0,1,1,1,0,1,0
+data scientist,4.9,"Visionist, Inc.",Enterprise Software & Network Solutions,Data Scientist,124,198,223.0,Columbia,MD,200,51,11,1,0,1,1,0,1,0,0,0,1,0,0,1
+data scientist,,Navio,Unknown,Data Scientist,124,198,223.0,San Mateo,CA,Unknown,Unknown,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+data scientist,3.3,Concerto HealthAI,Biotech & Pharmaceuticals,Data Scientist,124,198,223.0,Boston,MA,500,201,3,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,,Evolvinc,IT Services,Data Scientist,124,198,223.0,Burbank,CA,50,1,16,1,1,1,1,1,0,0,0,0,1,0,1,0
+data scientist,5.0,PROPRIUS,Enterprise Software & Network Solutions,Data Scientist,124,198,223.0,Sunnyvale,CA,50,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0
+data scientist,3.4,TECHNOCRAFT Solutions,Advertising & Marketing,Data Scientist,124,198,223.0,San Ramon,CA,50,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,4.1,"Latitude, Inc.",Consulting,Data Scientist,124,198,223.0,Washington,DC,50,1,1,1,0,0,0,0,1,0,0,0,1,0,1,0
+data scientist,5.0,Royce Geospatial,Aerospace & Defense,Data Scientist,124,198,223.0,Springfield,VA,200,51,7,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,4.2,CyberCoders,Staffing & Outsourcing,Data Scientist,124,198,223.0,Phoenix,AZ,500,201,22,1,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.7,Booz Allen Hamilton Inc.,Consulting,Data Scientist,124,198,223.0,Oxnard,CA,10000,10000,107,1,0,1,0,0,1,0,0,0,1,0,0,1
+data scientist,3.8,Burns & McDonnell,Architectural & Engineering Services,Data Scientist,124,198,223.0,Kansas City,MO,10000,5001,123,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,4.8,InvenTech Info,IT Services,Data Scientist,124,198,223.0,Jersey City,NJ,500,201,11,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.5,Robert Half,Staffing & Outsourcing,Data Scientist,124,198,223.0,Manchester,NH,10000,10000,73,1,0,1,1,0,0,0,0,0,1,0,1,0
+data analyst,4.6,GreatAmerica Financial Services,Lending,Analytics - Business Assurance Data Analyst,124,198,223.0,Cedar Rapids,IA,1000,501,29,0,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,4.5,Conflux Systems Inc.,Accounting,Data Scientist,124,198,223.0,Winters,TX,50,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+data scientist,3.9,Criteo,Internet,Data Scientist,124,198,223.0,Ann Arbor,MI,5000,1001,16,1,0,1,1,0,0,0,0,0,1,0,0,0
+data scientist,3.4,Voice,Unknown,Data Scientist,124,198,223.0,Brooklyn,NY,Unknown,Unknown,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,,Microagility,Consulting,Data Scientist,124,198,223.0,New York,NY,50,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0
+data scientist,4.1,Coverent,Consulting,Data Scientist,124,198,223.0,McLean,VA,200,51,13,1,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.7,Via Transportation,Internet,Data Scientist,79,133,145.5,New York,NY,1000,501,9,1,0,0,0,0,1,0,0,0,1,0,1,0
+senior data scientist,3.5,Benson Hill,Biotech & Pharmaceuticals,Senior Data Scientist,79,133,145.5,Saint Louis,MO,500,201,9,1,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.6,"Conch Technologies, Inc",Consulting,Data Scientist,79,133,145.5,Concord,CA,200,51,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,,Falcon IT & Staffing Solutions,Unknown,Data Scientist,79,133,145.5,Fort Belvoir,VA,Unknown,Unknown,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,,"Rainmaker Resources, LLC",Unknown,Data Scientist,79,133,145.5,Cincinnati,OH,50,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+data engineer,4.4,Rocket Lawyer,Computer Hardware & Software,Data Engineer,79,133,145.5,San Francisco,CA,200,51,13,1,1,1,0,0,0,0,0,0,0,0,1,0
+data scientist,3.6,DataLab USA,IT Services,Data Scientist,79,133,145.5,Germantown,MD,200,51,1,1,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,3.1,Werner Enterprises Inc,Logistics & Supply Chain,Data Scientist,79,133,145.5,Omaha,NE,10000,10000,65,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,5.0,PeopleCom,Unknown,Data Scientist,79,133,145.5,McLean,VA,50,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+machine learning engineer,5.0,VANTA Partners,Staffing & Outsourcing,Data Scientist - Machine Learning,79,133,145.5,Open Fork,VA,50,1,3,1,0,0,1,0,0,0,0,1,1,0,0,0
+data scientist,,B4Corp,IT Services,Data Scientist,79,133,145.5,Reston,VA,200,51,1,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,,"Blue Icy Water, LLC",Unknown,Data Scientist,79,133,145.5,United States,,50,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.5,"Farmer's Business Network, Inc.",Farm Support Services,Data Scientist,79,133,145.5,San Carlos,CA,500,201,7,1,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,,Sonde Health,Health Care Services & Hospitals,Data Scientist,79,133,145.5,Boston,MA,50,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+data scientist,5.0,Maxiom,Unknown,Data Scientist,79,133,145.5,Ashburn,VA,50,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0
+data scientist,2.7,Change Healthcare,IT Services,Data Scientist,79,133,145.5,Lombard,IL,10000,10000,14,0,1,0,0,1,0,0,0,0,0,0,1,0
+data scientist,4.1,DCS Corp,Research & Development,Data Scientist,79,133,145.5,Hampton,VA,5000,1001,44,1,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,2.1,Hive (CA),Telecommunications Services,Data Scientist,79,133,145.5,San Francisco,CA,Unknown,Unknown,2,1,0,1,1,0,0,0,0,0,1,0,1,1
+machine learning engineer,4.8,Jane Street,Investment Banking & Asset Management,Machine Learning Engineer/Scientist,79,133,145.5,New York,NY,1000,501,21,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.5,Envision LLC,Staffing & Outsourcing,Data Scientist - Intermediate,69,116,127.0,Saint Louis,MO,500,201,27,1,1,0,0,0,0,0,0,0,1,0,0,0
+data science manager,4.0,Autodesk,Computer Hardware & Software,Principal Data Scientist,69,116,127.0,San Francisco,CA,10000,5001,39,1,1,1,1,1,0,0,0,0,1,0,0,0
+data scientist,3.3,Hackensack Meridian Health,Health Care Services & Hospitals,Data Scientist,69,116,127.0,Edison,NJ,10000,10000,1,1,0,0,0,0,1,0,0,0,1,1,0,0
+senior data scientist,3.9,Novartis,Biotech & Pharmaceuticals,"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",69,116,127.0,Cambridge,MA,10000,10000,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.2,Net2Source Inc.,Staffing & Outsourcing,Data Scientist,69,116,127.0,Alpharetta,GA,5000,1001,14,1,1,1,1,0,0,0,0,0,1,0,1,1
+data scientist,3.2,The Trade Desk,Internet,Data Scientist,69,116,127.0,Boulder,CO,5000,1001,12,1,0,0,1,1,0,0,0,0,1,0,1,0
+data scientist,3.7,IBM,IT Services,Data Scientist- Industrial Discrete Sector Industry,69,116,127.0,Atlanta,GA,10000,10000,110,1,1,0,0,1,0,0,1,0,1,0,0,0
+data scientist,4.4,Knowesis Inc.,Consulting,Data Scientist,69,116,127.0,Falls Church,VA,200,51,14,1,0,1,0,1,1,0,0,0,1,0,1,0
+data scientist,3.1,MoTek Technologies,IT Services,Data Scientist,69,116,127.0,Mountain View,CA,50,1,12,1,1,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.3,The Davey Tree Expert Company,Timber Operations,Data Scientist,69,116,127.0,Kent,OH,10000,10000,141,1,1,0,0,0,0,0,0,0,1,0,1,1
+data scientist,3.5,HPOne,Insurance Carriers,Data Scientist,69,116,127.0,Trumbull,CT,1000,501,15,1,1,0,0,0,1,0,0,0,1,0,0,0
+data scientist,,Stride Search,Unknown,Data Scientist,69,116,127.0,San Francisco,CA,50,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+machine learning engineer,2.6,Software Engineering Institute,Colleges & Universities,Machine Learning Engineer,69,116,127.0,Pittsburgh,PA,1000,501,37,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,2.7,TBWA\Chiat\Day,Advertising & Marketing,Data Scientist,69,116,127.0,New York,NY,5000,1001,53,1,1,0,0,0,1,0,0,0,0,1,1,0
+data scientist,3.5,ThreeBridge Solutions,Consulting,Data Scientist,69,116,127.0,Alpharetta,GA,1000,501,12,1,0,0,0,0,0,0,0,0,1,0,1,1
+data scientist,3.2,"Numeric, LLC",Staffing & Outsourcing,Data Scientist,69,116,127.0,Philadelphia,PA,50,1,1,1,0,1,1,1,0,0,0,0,1,0,1,0
+data analyst,3.8,Dermalogica,Consumer Products Manufacturing,Data Analyst - Unilever Prestige,69,116,127.0,Carson,CA,500,201,35,1,0,0,0,0,1,0,0,0,0,0,1,0
+data scientist,4.2,Centraprise,IT Services,Data Scientist,69,116,127.0,Foster City,CA,200,51,1,1,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,4.8,TechProjects,IT Services,Data Scientist,69,116,127.0,New York,NY,50,1,10,1,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,4.2,DW Simpson,Staffing & Outsourcing,Data Scientist,69,116,127.0,Frederick,MD,200,51,32,1,1,0,0,0,1,0,0,0,0,0,1,0
+machine learning engineer,3.3,Tempus Labs,Biotech & Pharmaceuticals,Data & Machine Learning Scientist,31,56,59.0,Chicago,IL,1000,501,6,1,0,0,0,1,0,0,1,1,1,0,1,1
+data scientist,4.0,Grid Dynamics,Enterprise Software & Network Solutions,Data Scientist,31,56,59.0,Santa Clara,CA,5000,1001,15,1,1,0,0,0,1,0,0,0,0,0,1,0
+data science manager,3.9,7Park Data,Research & Development,"VP, Data Science",31,56,59.0,New York,NY,200,51,9,1,1,0,1,0,0,0,0,0,1,0,0,1
+senior data analyst,3.7,Protolabs,Miscellaneous Manufacturing,Senior Business Intelligence Analyst,31,56,59.0,Maple Plain,MN,5000,1001,22,0,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.9,LinQuest,Aerospace & Defense,Data Scientist,31,56,59.0,Colorado Springs,CO,1000,501,17,1,1,0,0,0,1,0,0,0,0,1,1,0
+data engineer,3.5,Western Digital,Computer Hardware & Software,Data Engineer - Kafka,31,56,59.0,San Jose,CA,10000,10000,51,1,0,1,1,1,0,0,0,0,1,0,0,1
+data scientist,4.0,Trexquant Investment,Investment Banking & Asset Management,Data Scientist,31,56,59.0,United States,,50,1,9,1,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.0,Ameritas Life Insurance Corp,Insurance Agencies & Brokerages,Data Scientist,31,56,59.0,Cincinnati,OH,5000,1001,134,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.7,Fleetcor,Financial Transaction Processing,Data Scientist,31,56,59.0,Atlanta,GA,10000,5001,21,1,1,0,0,0,1,0,0,0,1,0,0,0
+data scientist,4.5,Radiant Digital,Unknown,Data Scientist,31,56,59.0,Washington,DC,50,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0
+data scientist,2.8,Child Care Aware of America,Social Assistance,Data Scientist,31,56,59.0,Arlington,VA,200,51,34,1,1,0,0,1,0,0,0,0,1,0,1,1
+data scientist,4.1,IntelliPro Group Inc.,Unknown,Data Scientist,31,56,59.0,Santa Clara,CA,500,201,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+data analyst,2.9,Quest Integrity,Oil & Gas Services,In-Line Inspection Data Analyst,31,56,59.0,Tulsa,OK,500,201,25,0,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.7,Praxis Engineering,Computer Hardware & Software,Data Scientist,31,56,59.0,Chantilly,VA,500,201,19,0,0,0,0,1,0,0,0,0,0,0,1,0
+data scientist,3.4,USI,Construction,Data Scientist,31,56,59.0,Southfield,MI,5000,1001,23,1,1,0,0,0,0,0,0,0,1,1,1,0
+data scientist,3.9,Apex Systems,Staffing & Outsourcing,Data Scientist,31,56,59.0,San Francisco,CA,5000,1001,26,0,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,2.9,"Pragmatics, Inc.",IT Services,Data Scientist,31,56,59.0,United States,,500,201,36,1,0,1,0,1,0,0,0,0,0,0,0,0
+data scientist,4.5,Johns Hopkins University Applied Physics Laboratory,Aerospace & Defense,Decision Scientist,31,56,59.0,Laurel,MD,10000,5001,79,0,1,0,1,0,0,0,0,0,0,0,0,0
+data scientist,4.9,Cambridge Mobile Telematics,Enterprise Software & Network Solutions,Data Scientist,31,56,59.0,Cambridge,MA,50,1,11,1,0,0,1,1,0,0,1,1,1,0,0,0
+data scientist,5.0,Phoenix Operations Group,IT Services,Data Scientist - TS/SCI FSP or CI Required,31,56,59.0,Annapolis Junction,MD,50,1,10,1,0,0,1,0,0,0,0,0,1,0,0,0
+machine learning engineer,3.3,Tempus Labs,Biotech & Pharmaceuticals,"Data Scientist, Applied Machine Learning - Bay Area",95,119,154.5,Redwood City,CA,1000,501,6,1,0,0,0,1,0,0,1,1,1,0,1,0
+data scientist,3.5,The Knot Worldwide,Internet,Data Scientist,95,119,154.5,Washington,DC,5000,1001,2,1,0,0,1,1,0,0,0,0,1,0,0,0
+data scientist,3.5,Crossover Health,Health Care Services & Hospitals,Data Scientist,95,119,154.5,San Clemente,CA,50,1,11,1,1,0,0,0,1,0,0,1,0,0,0,0
+data scientist,4.0,Lorven Technologies Inc,Accounting,Data Scientist,95,119,154.5,New York,NY,50,1,1,1,0,0,0,0,0,0,1,1,1,0,1,0
+data analyst,3.9,Nolij Consulting,Consulting,Data Analyst,95,119,154.5,Falls Church,VA,200,51,9,1,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,3.4,Dice.com,Staffing & Outsourcing,Data Scientist,95,119,154.5,Newton,MA,500,201,31,1,1,0,0,1,0,0,0,0,1,0,1,1
+data scientist,3.5,Gap Inc.,"Department, Clothing, & Shoe Stores",Data Scientist,95,119,154.5,San Francisco,CA,10000,10000,52,1,0,0,1,0,0,0,0,0,1,0,1,1
+data scientist,4.7,"Tygart Technology, Inc",Unknown,Data Scientist,95,119,154.5,Washington,DC,50,1,1,1,1,1,0,0,0,0,0,0,1,0,1,0
+data scientist,4.6,Murray Resources,Staffing & Outsourcing,Data Scientist,95,119,154.5,The Woodlands,TX,50,1,33,1,1,1,0,0,1,0,0,0,0,0,1,0
+data scientist,4.0,New York Technology Partners,Computer Hardware & Software,Data Scientist,95,119,154.5,Seattle,WA,200,51,22,1,1,1,1,1,0,0,1,1,1,0,1,1
+data scientist,4.0,Two95 International Inc.,Staffing & Outsourcing,Data Scientist,95,119,154.5,Chicago,IL,50,1,1,1,0,0,0,0,0,0,1,1,0,0,1,0
+data scientist,,Sophinea,Unknown,Data Scientist,95,119,154.5,Chantilly,VA,50,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,4.7,CRS Group,Staffing & Outsourcing,Data Scientist,95,119,154.5,Chicago,IL,200,51,27,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.5,Blackstone Talent Group,Consulting,Data Scientist,95,119,154.5,San Francisco,CA,200,51,23,1,0,0,0,1,0,0,0,0,1,0,0,1
+data scientist,5.0,Phoenix Operations Group,IT Services,Data Scientist - TS/SCI Required,95,119,154.5,Baltimore,MD,50,1,10,1,0,0,1,0,0,0,1,1,1,0,0,0
+data science manager,4.1,Roche,Biotech & Pharmaceuticals,Senior Principal Data Scientist (Python/R),212,331,377.5,Pleasanton,CA,10000,10000,125,1,1,1,1,0,0,0,0,0,1,0,1,0
+data scientist,4.0,AstraZeneca,Biotech & Pharmaceuticals,"Real World Science, Data Scientist",212,331,377.5,Wilmington,DE,10000,10000,108,1,0,1,0,0,0,0,0,0,1,0,1,0
+data scientist,3.6,Creative Circle,Staffing & Outsourcing,Data Scientist,212,331,377.5,United States,,500,201,19,1,0,0,0,0,0,0,0,0,0,0,1,0
+machine learning engineer,5.0,Blue Horizon Tek Solutions,Staffing & Outsourcing,Data Scientist(s)/Machine Learning Engineer,212,331,377.5,New York,NY,50,1,34,1,1,0,0,0,0,0,0,0,1,0,0,0
+senior data scientist,3.5,Maxar Technologies,Aerospace & Defense,Senior Data Scientist,212,331,377.5,Herndon,VA,10000,5001,1,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,4.7,Sharpedge Solutions Inc,Publishing,Data Scientist,212,331,377.5,Seattle,WA,Unknown,Unknown,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+data scientist,3.5,Maxar Technologies,Aerospace & Defense,Data Scientist,212,331,377.5,Herndon,VA,10000,5001,1,1,0,1,1,0,1,0,0,0,1,0,1,1
+data scientist,3.6,Alaka`ina Foundation Family of Companies,Unknown,Data Scientist,212,331,377.5,Fort Sam Houston,TX,1000,501,1,1,0,0,0,0,0,0,0,0,1,0,1,0
+data engineer,3.9,Southwest Research Institute,Research & Development,ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,212,331,377.5,Oklahoma City,OK,5000,1001,74,1,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,2.7,Hexagon US Federal,Aerospace & Defense,Data Scientist,212,331,377.5,Lexington Park,MD,200,51,11,0,1,0,0,1,0,0,0,0,1,0,0,0
+data engineer,4.8,Klaviyo,Computer Hardware & Software,Data Science Software Engineer,212,331,377.5,Boston,MA,500,201,9,1,0,0,0,0,0,0,1,1,1,0,0,0
+data scientist,4.0,Comtech Global Inc,"Health, Beauty, & Fitness",Data Scientist,212,331,377.5,Washington,DC,200,51,1,1,0,1,1,1,1,0,0,0,1,1,1,0
+data scientist,3.8,"Aveshka, Inc.",IT Services,Data Scientist,212,331,377.5,Washington,DC,200,51,11,1,1,0,1,0,0,0,0,0,1,0,1,0
+data science manager,4.2,10x Genomics,Biotech & Pharmaceuticals,"Manager, Field Application Scientist, Southeast",212,331,377.5,Raleigh,NC,1000,501,9,0,1,0,0,0,0,0,0,0,0,0,0,0
+data engineer,3.9,Southwest Research Institute,Research & Development,COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING,212,331,377.5,Dayton,OH,5000,1001,74,1,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,,CompuForce,Unknown,Data Scientist,212,331,377.5,New York,NY,Unknown,Unknown,1,0,1,1,1,1,0,0,1,0,1,0,0,0
+data scientist,4.5,Smith Hanley Associates,Staffing & Outsourcing,Data Scientist,212,331,377.5,Washington,DC,50,1,41,1,0,0,0,0,0,0,0,0,1,0,1,0
+machine learning engineer,3.5,Allen Institute,Research & Development,Scientist - Machine Learning,212,331,377.5,Seattle,WA,500,201,18,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,2.7,1-800-Flowers,Wholesale,Data Scientist,212,331,377.5,New York,NY,5000,1001,45,1,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,3.5,Aptive,Consulting,Data Scientist,212,331,377.5,Washington,DC,200,51,9,1,1,0,0,0,1,0,0,0,1,1,1,0
+data scientist,4.9,The Mom Project,Staffing & Outsourcing,Data Scientist - Image and Video Analytics,66,112,122.0,Longmont,CO,50,1,5,1,0,1,1,1,0,0,0,0,1,0,0,1
+data scientist,3.6,Powertek,IT Services,Data Scientist,66,112,122.0,Washington,DC,200,51,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,5.0,JCD Staffing,Unknown,Data Scientist,66,112,122.0,Washington,DC,50,1,1,1,1,0,0,0,1,0,0,0,1,1,1,0
+data scientist,3.1,Bayside Solutions,Staffing & Outsourcing,Data Scientist,66,112,122.0,Sunnyvale,CA,50,1,20,1,1,0,0,0,1,0,0,0,0,0,1,0
+senior data engineer,3.9,Thumbtack,Internet,Senior Data Engineer,66,112,122.0,San Francisco,CA,1000,501,12,1,1,0,0,1,0,0,0,0,0,0,0,0
+data scientist,3.4,"MILVETS Systems Technology, Inc.",IT Services,Data Scientist,66,112,122.0,Patuxent,Anne Arundel,200,51,35,0,1,0,0,0,0,0,0,0,1,0,0,0
+machine learning engineer,4.1,Apple,Computer Hardware & Software,Machine Learning Scientist / Engineer,66,112,122.0,Santa Clara,CA,10000,10000,45,0,0,0,0,0,0,0,0,0,1,0,0,1
+data scientist,4.1,Kforce,Staffing & Outsourcing,Data Scientist,66,112,122.0,Fairfax,VA,10000,10000,55,0,0,0,0,0,0,0,0,0,1,0,0,0
+senior data scientist,3.5,Evolve Vacation Rental,Travel Agencies,Sr. Data Scientist,66,112,122.0,Denver,CO,500,201,10,1,0,0,0,0,0,0,0,0,1,0,1,0
+senior data analyst,4.3,The Buffalo Group,IT Services,"Intelligence Data Analyst, Senior",66,112,122.0,Fort Belvoir,VA,1000,501,11,1,0,0,0,0,0,0,0,0,0,0,0,0
+data analyst,4.4,OppLoans,Lending,Data Science Analyst,66,112,122.0,Chicago,IL,500,201,9,1,0,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.8,AgreeYa Solutions,IT Services,Data Scientist,66,112,122.0,Thousand Oaks,CA,5000,1001,22,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.7,Carolina Power & Light Co,Energy,Data Scientist,66,112,122.0,McLean,VA,10000,5001,113,1,1,0,0,0,0,0,0,0,1,0,1,0
+data engineer,3.9,Southwest Research Institute,Research & Development,COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - TRANSPORTATION TECHNOLOGY,66,112,122.0,San Antonio,TX,5000,1001,74,1,1,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.9,Brillient,IT Services,Data Scientist,66,112,122.0,Silver Spring,MD,1000,501,15,1,1,0,0,0,0,0,0,0,1,0,0,0
+data modeler (analytical systems),3.7,MassMutual,Insurance Carriers,Data Modeler (Analytical Systems),66,112,122.0,Boston,MA,10000,5001,170,0,1,1,1,0,0,0,0,0,0,0,1,0
+data scientist,2.9,Xator Corporation,IT Services,Data Scientist,66,112,122.0,Washington,DC,1000,501,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.6,HAN IT Staffing Inc.,IT Services,Data Scientist,66,112,122.0,New York,NY,200,51,9,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.4,Infinitive Inc,Enterprise Software & Network Solutions,Data Scientist,66,112,122.0,McLean,VA,500,201,24,1,1,1,1,1,0,0,0,0,1,0,1,0
+data engineer,4.0,Travelers,Insurance Carriers,"Data Engineer (Analytics, SQL, Python, AWS)",66,112,122.0,Hartford,CT,10000,10000,168,1,0,0,1,1,0,0,0,0,0,0,1,0
+data scientist,3.3,Amyris,Biotech & Pharmaceuticals,Data Scientist 3 (718),128,201,228.5,Emeryville,CA,500,201,18,1,0,0,0,1,0,0,0,0,1,0,0,0
+data scientist,4.3,Lightspeed Systems,Computer Hardware & Software,Data Scientist,128,201,228.5,Austin,TX,200,51,22,1,0,0,1,1,0,0,0,0,1,0,1,1
+senior data scientist,3.9,Thumbtack,Internet,Senior Data Scientist,128,201,228.5,San Francisco,CA,1000,501,12,1,1,1,1,0,0,0,0,0,1,0,0,0
+senior data analyst,3.6,Twitch,Internet,Senior Data Analyst - Finance & Platform Analytics,128,201,228.5,San Francisco,CA,5000,1001,10,1,0,0,0,0,1,0,0,0,0,0,1,0
+machine learning engineer,4.7,New Relic,Computer Hardware & Software,Software Engineer - Machine Learning & Data Science (Applied Intelligence Services Team),128,201,228.5,Portland,OR,5000,1001,13,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.6,Biogen,Biotech & Pharmaceuticals,IT Partner Digital Health Technology and Data Science,128,201,228.5,Cambridge,MA,10000,5001,43,0,1,0,0,0,0,0,0,0,0,0,0,0
+machine learning engineer,3.3,Tempus Labs,Biotech & Pharmaceuticals,"Senior Machine Learning Scientist - Bay Area, CA",128,201,228.5,Redwood City,CA,1000,501,6,1,0,0,0,1,0,0,1,1,1,0,1,0
+data scientist,3.3,ICW Group,Insurance Carriers,Data Scientist,128,201,228.5,San Diego,CA,1000,501,49,1,0,0,0,0,0,0,0,0,1,0,1,0
+data analyst,3.8,NYSTEC,Consulting,Clinical Data Analyst,128,201,228.5,New York,NY,200,51,25,1,0,0,0,0,0,0,1,1,0,0,1,0
+data scientist,4.5,E3 Federal Solutions,Consulting,Data Scientist,128,201,228.5,Chantilly,VA,1000,501,17,0,0,1,0,0,0,0,0,0,1,0,0,0
+data engineer,4.5,Kingfisher Systems,Federal Agencies,Data Engineer,128,201,228.5,Falls Church,VA,200,51,16,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.4,Peraton,Aerospace & Defense,Data Scientist Technical Specialist,128,201,228.5,Chantilly,VA,5000,1001,4,1,0,1,1,0,0,0,0,0,1,0,1,0
+senior data scientist,3.1,Group O,Staffing & Outsourcing,Senior Data Scientist,128,201,228.5,Chicago,IL,5000,1001,47,1,0,1,0,0,0,0,0,0,1,0,0,1
+data science manager,4.0,Autodesk,Computer Hardware & Software,Data Science Manager,128,201,228.5,San Francisco,CA,10000,5001,39,1,1,1,1,0,0,0,0,1,1,0,1,0
+data scientist,3.3,Tempus Labs,Biotech & Pharmaceuticals,Computer Vision / Deep Learning Scientist,128,201,228.5,Chicago,IL,1000,501,6,0,0,0,0,1,0,0,0,0,1,0,0,1
+data engineer,4.1,CaptiveAire,Industrial Manufacturing,Big Data Engineer,128,201,228.5,Raleigh,NC,5000,1001,45,1,0,0,1,0,0,0,0,0,1,1,1,0
+data architect,4.2,LSQ,Investment Banking & Asset Management,Data Architect,128,201,228.5,Orlando,FL,200,51,25,1,0,1,1,1,0,0,0,0,0,0,1,0
+machine learning engineer,3.9,Temboo,IT Services,Machine Learning Engineer,128,201,228.5,New York,NY,50,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0
+data scientist,,Kibo,Unknown,Data Scientist,128,201,228.5,Philadelphia,PA,Unknown,Unknown,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,3.3,MITRE,Federal Agencies,Aviation AI/ML Data Scientist,128,201,228.5,McLean,VA,10000,5001,63,1,1,1,1,0,1,0,0,0,1,0,0,1
+data scientist,3.9,Mars,Food & Beverage Manufacturing,Data Scientist,138,158,217.0,United States,,10000,10000,110,1,0,0,1,1,0,0,0,0,1,0,0,0
+data scientist,4.5,"Fullpower Technologies, Inc.",Computer Hardware & Software,Data Scientist / Applied Mathematician,138,158,217.0,Santa Cruz,CA,200,51,18,1,0,0,0,1,0,0,0,1,1,0,1,1
+machine learning engineer,4.2,AeroVironment,Aerospace & Defense,"Machine Learning Engineer, Sr.",138,158,217.0,Simi Valley,CA,1000,501,50,1,1,0,0,1,0,0,0,1,1,0,0,1
+data scientist,3.5,Maxar Technologies,Aerospace & Defense,Data Scientist (TS/SCI w/ Poly),138,158,217.0,Herndon,VA,10000,5001,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+data engineer,4.0,Dynetics,Aerospace & Defense,Weapons and Sensors Engineer/Scientist,138,158,217.0,Huntsville,AL,5000,1001,47,1,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.5,Systems & Technology Research,Aerospace & Defense,Applied Computer Scientist,138,158,217.0,Woburn,MA,500,201,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+senior data analyst,4.5,Novetta,Enterprise Software & Network Solutions,Senior Data Analyst,138,158,217.0,Herndon,VA,1000,501,9,1,1,0,0,0,0,0,0,0,1,0,1,0
+data engineer,3.8,Applied Research Laboratories,Colleges & Universities,Information Systems Engineering Specialist (Engineering Scientist),138,158,217.0,Austin,TX,1000,501,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+data engineer,3.9,Navy Federal Credit Union,Banks & Credit Unions,Cloud Data Engineer (Azure),138,158,217.0,Merrifield,VA,10000,10000,88,0,0,0,0,0,1,0,0,0,0,1,1,0
+data engineer,2.0,Conagen,Biotech & Pharmaceuticals,Scientist/Research Associate-Metabolic Engineering,138,158,217.0,New Bedford,MA,200,51,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+data science manager,4.8,Alector,Biotech & Pharmaceuticals,"Vice President, Biometrics and Clinical Data Management",138,158,217.0,South San Francisco,CA,200,51,8,0,1,0,0,1,0,0,0,0,0,0,0,0
+data science manager,3.9,Navy Federal Credit Union,Banks & Credit Unions,Enterprise Data Analyst (Enterprise Portfolio Management Office),138,158,217.0,Merrifield,VA,10000,10000,88,0,0,0,1,0,1,0,0,0,0,1,1,0
+senior data scientist,3.3,Reynolds American,Consumer Products Manufacturing,Senior Scientist - Toxicologist - Product Integrity (Stewardship),138,158,217.0,Winston-Salem,NC,10000,5001,146,0,1,0,0,0,0,0,0,0,0,0,0,0
+data science manager,3.3,MITRE,Federal Agencies,Lead Data Scientist – Network Analysis and Control,138,158,217.0,Bedford,MA,10000,5001,63,1,1,1,1,1,0,0,0,0,1,0,1,1
+machine learning engineer,5.0,LifeOmic,Enterprise Software & Network Solutions,Senior Machine Learning Engineer,138,158,217.0,Raleigh,NC,200,51,5,0,0,0,1,1,0,0,0,0,1,0,0,0
+senior data scientist,4.4,"Homology Medicines, Inc.",Unknown,"Sr. Research Associate/ Scientist, NGS prep & Molecular Genomics",138,158,217.0,New Bedford,MA,200,51,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+data engineer,3.4,Spectrum Communications and Consulting,Advertising & Marketing,Data Engineer,138,158,217.0,Chicago,IL,200,51,29,1,0,0,0,0,0,0,0,0,0,0,1,0
+developer iii - data science,3.3,Inland Empire Health Plan,Health Care Services & Hospitals,Developer III - Data Science,138,158,217.0,Rancho Cucamonga,CA,5000,1001,25,0,1,0,0,0,1,0,0,0,0,1,1,0
+senior data engineer,2.9,Affinity Solutions,Advertising & Marketing,Senior Data Engineer,138,158,217.0,New York,NY,200,51,23,1,0,1,1,0,1,0,0,0,1,0,1,0
+senior data scientist,3.8,Sandia National Laboratories,Federal Agencies,Hydrogen/Tritium Materials Scientist (Experienced),138,158,217.0,Livermore,CA,10000,10000,72,0,0,0,0,0,0,0,0,0,0,0,0,0
+data engineer,3.5,Maxar Technologies,Aerospace & Defense,Data Engineer,138,158,217.0,McLean,VA,10000,5001,1,1,0,0,0,1,0,0,0,0,0,0,1,0
+data scientist,4.0,AstraZeneca,Biotech & Pharmaceuticals,Patient Safety- Associate Data Scientist,80,132,146.0,Gaithersburg,MD,10000,10000,108,1,1,0,0,0,0,0,0,0,1,0,1,1
+senior data scientist,4.0,Autodesk,Computer Hardware & Software,Senior Data Scientist,80,132,146.0,San Francisco,CA,10000,5001,39,1,0,1,1,0,0,0,0,1,1,0,1,0
+data scientist,3.4,USI,Construction,Data Scientist,80,132,146.0,Southfield,MI,5000,1001,23,1,1,0,0,0,0,0,0,0,1,1,1,0
+data scientist,3.9,GSK,Biotech & Pharmaceuticals,Data Scientist,80,132,146.0,Collegeville,PA,10000,10000,191,1,0,1,0,1,1,0,0,0,0,0,1,0
+data scientist,3.8,CIA,Federal Agencies,Data Scientist,80,132,146.0,Washington,DC,Unknown,Unknown,74,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.5,Maven Wave Partners,Consulting,Data Scientist,80,132,146.0,Chicago,IL,500,201,13,1,1,1,0,1,1,0,0,0,1,0,1,0
+data scientist,4.3,Ovative Group,Advertising & Marketing,Data Scientist,80,132,146.0,Minneapolis,MN,200,51,12,1,0,0,0,0,0,0,1,1,1,0,0,0
+data scientist,3.6,Kognetics,Unknown,Data Scientist,80,132,146.0,Gahanna,OH,50,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0
+data scientist,2.9,Envision Healthcare,Health Care Services & Hospitals,Data Scientist,80,132,146.0,Nashville,TN,10000,10000,16,1,1,1,1,1,1,0,0,0,1,0,1,0
+data scientist,2.9,"Pragmatics, Inc.",IT Services,Data Scientist,80,132,146.0,United States,,500,201,36,1,0,1,0,1,0,0,0,0,0,0,0,0
+data scientist,3.2,ConsumerTrack,Internet,Data Scientist,80,132,146.0,California,,200,51,17,1,1,0,0,0,1,0,0,0,1,0,1,0
+data scientist,4.5,Johns Hopkins University Applied Physics Laboratory,Aerospace & Defense,Decision Scientist,80,132,146.0,Laurel,MD,10000,5001,79,0,1,0,1,0,0,0,0,0,0,0,0,0
+data scientist,5.0,Phoenix Operations Group,IT Services,Data Scientist - TS/SCI FSP or CI Required,80,132,146.0,Annapolis Junction,MD,50,1,10,1,0,0,1,0,0,0,0,0,1,0,0,0
+data scientist,3.5,Crossover Health,Health Care Services & Hospitals,Data Scientist,80,132,146.0,San Clemente,CA,50,1,11,1,1,0,0,0,1,0,0,1,0,0,0,0
+data scientist,4.0,Lorven Technologies Inc,Accounting,Data Scientist,80,132,146.0,New York,NY,50,1,1,1,0,0,0,0,0,0,1,1,1,0,1,0
+data scientist,4.4,Meridian Knowledge Solutions,Enterprise Software & Network Solutions,Data Scientist,80,132,146.0,Washington,DC,200,51,24,0,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.2,UST Global,IT Services,Data Scientist,80,132,146.0,Atlanta,GA,10000,10000,22,1,1,1,1,1,0,0,0,0,0,0,1,0
+data scientist,3.2,IMG Systems,Consulting,Data Scientist,80,132,146.0,Plano,TX,50,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0
+data scientist,3.4,Trident Systems Inc,Aerospace & Defense,Data Scientist,80,132,146.0,Fairfax,VA,200,51,36,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.7,"Tygart Technology, Inc",Unknown,Data Scientist,80,132,146.0,Washington,DC,50,1,1,1,1,1,0,0,0,0,0,0,1,0,1,0
+senior data scientist,3.6,Merrick Bank,Banks & Credit Unions,(Sr.) Data Scientist -,87,141,157.5,Utah,,500,201,24,1,1,0,0,1,0,0,0,0,1,0,1,0
+senior data scientist,4.2,ManTech,Research & Development,Senior Data Scientist,87,141,157.5,Alexandria,VA,10000,5001,53,1,0,1,1,0,1,0,0,0,1,0,1,0
+data scientist,3.2,First Health Group,Insurance Carriers,Data Scientist,87,141,157.5,Wellesley,MA,10000,10000,168,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,,Sprezzatura Management Consulting,Unknown,Data Scientist,87,141,157.5,Washington,VA,Unknown,Unknown,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,2.8,"Progress Rail, A Caterpillar Company",Rail,Data Scientist,87,141,157.5,Fort Worth,TX,5000,1001,38,1,1,0,0,1,0,0,0,0,1,0,1,0
+data scientist,4.2,UST Global,IT Services,Data Scientist,87,141,157.5,Atlanta,GA,10000,10000,22,1,1,1,1,1,0,0,0,0,0,0,1,0
+data scientist,4.5,Axiologic Solutions,Aerospace & Defense,Data Scientist,87,141,157.5,Alexandria,VA,200,51,12,0,0,0,0,1,0,0,0,0,0,0,0,0
+data scientist,3.0,Indigo Slate,Consulting,Data Scientist,87,141,157.5,Bellevue,WA,200,51,15,1,0,0,1,0,0,0,0,0,1,0,1,1
+data scientist,3.3,Cubic,Aerospace & Defense,Data Scientist,87,141,157.5,United States,,10000,5001,70,1,1,1,0,0,0,0,0,0,1,0,1,0
+data scientist,4.0,Advanced Bio-Logic Solutions Corp,Unknown,Data Scientist,87,141,157.5,Thousand Oaks,CA,50,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1
+data engineer,3.5,Alignment Healthcare,Health Care Services & Hospitals,Data Engineer,87,141,157.5,Orange,CA,1000,501,8,0,1,1,1,1,1,0,0,0,0,1,1,0
+data scientist,3.5,WGSN,Consulting,Data Scientist,87,141,157.5,Baltimore,MD,50,1,23,1,1,1,1,0,1,0,0,0,1,0,1,0
+data scientist,3.6,"ISYS Technologies, Inc.",Computer Hardware & Software,Data Scientist,87,141,157.5,Herndon,VA,200,51,31,1,0,1,1,0,1,0,0,0,0,0,1,0
+data scientist,3.0,TransVoyant,Enterprise Software & Network Solutions,Data Scientist,87,141,157.5,Alexandria,VA,200,51,9,0,0,1,1,0,0,0,0,0,0,0,0,0
+data scientist,4.0,Noblis,Consulting,Data Scientist/Data Analytics Practitioner,87,141,157.5,Bridgeport,WV,5000,1001,25,1,0,0,0,0,0,0,1,0,1,0,0,0
+data scientist,4.6,Murray Resources,Staffing & Outsourcing,Data Scientist,87,141,157.5,The Woodlands,TX,50,1,33,1,1,1,0,0,1,0,0,0,0,0,1,0
+data scientist,4.3,Geotab,Computer Hardware & Software,Data Scientist,87,141,157.5,Oakville,CA,5000,1001,21,1,1,0,1,0,0,0,1,1,1,0,1,1
+data scientist,4.7,CRS Group,Staffing & Outsourcing,Data Scientist,87,141,157.5,Chicago,IL,200,51,27,0,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.7,EGlobalTech,IT Services,Data Scientist,87,141,157.5,Arlington,VA,500,201,17,1,1,0,0,1,0,0,0,0,1,0,0,0
+data scientist,3.9,Mars,Food & Beverage Manufacturing,"Data Scientist, Kinship - NYC/Portland",92,155,169.5,New York,NY,10000,10000,110,1,0,0,1,0,0,0,0,0,1,0,0,0
+data scientist,4.9,Avlino,Enterprise Software & Network Solutions,Data Scientist,92,155,169.5,New Jersey,,50,1,8,1,0,1,1,0,0,0,0,0,1,0,0,0
+data scientist,3.0,"Central Business Solutions, Inc",Consulting,Data Scientist,92,155,169.5,Seattle,WA,200,51,1,1,1,1,1,1,0,0,1,1,1,0,1,1
+data scientist,2.5,KeHE Distributors,Wholesale,Data Scientist,92,155,169.5,Naperville,IL,10000,5001,67,1,1,1,1,1,1,0,0,0,1,1,1,1
+data scientist,3.5,Blackstone Talent Group,Consulting,Data Scientist,92,155,169.5,San Francisco,CA,200,51,23,1,0,0,0,1,0,0,0,0,1,0,0,1
+data scientist,5.0,Phoenix Operations Group,IT Services,Data Scientist - TS/SCI Required,92,155,169.5,Baltimore,MD,50,1,10,1,0,0,1,0,0,0,1,1,1,0,0,0
+data scientist,,Sophinea,Unknown,Data Scientist,92,155,169.5,Chantilly,VA,50,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+senior data scientist,3.5,Maxar Technologies,Aerospace & Defense,Senior Data Scientist,92,155,169.5,Herndon,VA,10000,5001,1,1,1,0,0,0,0,0,0,0,1,0,1,0
+data scientist,3.0,Moxie Software,Enterprise Software & Network Solutions,Data Scientist,92,155,169.5,Bellevue,WA,200,51,22,1,0,1,1,0,0,0,0,0,0,0,0,0
+machine learning engineer,5.0,Blue Horizon Tek Solutions,Staffing & Outsourcing,Data Scientist(s)/Machine Learning Engineer,92,155,169.5,New York,NY,50,1,34,1,1,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.7,Unicom Technologies INC,IT Services,Data Scientist,92,155,169.5,Chicago,IL,200,51,1,1,1,1,1,1,0,0,0,0,1,0,1,0
+data engineer,3.3,Americo Life,Insurance Carriers,Data Engineer,92,155,169.5,Kansas City,MO,500,201,29,1,1,1,1,1,0,0,0,0,0,0,1,0
+data scientist,3.3,Tokio Marine HCC,Insurance Carriers,Data Scientist,92,155,169.5,Houston,TX,5000,1001,47,1,0,0,0,0,0,0,0,0,0,0,0,0
+data scientist,3.5,CACI International,Aerospace & Defense,Data Scientist,92,155,169.5,Chantilly,VA,10000,10000,59,0,1,0,0,0,0,0,0,0,0,0,1,0
+machine learning engineer,4.1,Apple,Computer Hardware & Software,"AI/ML - Machine Learning Scientist, Siri Understanding",92,155,169.5,Santa Clara,CA,10000,10000,45,1,0,0,0,0,0,0,0,0,1,0,0,1
+data scientist,3.5,Maxar Technologies,Aerospace & Defense,Data Scientist,92,155,169.5,Herndon,VA,10000,5001,1,1,0,1,1,0,1,0,0,0,1,0,1,1
+data engineer,3.9,Southwest Research Institute,Research & Development,ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,92,155,169.5,Oklahoma City,OK,5000,1001,74,1,1,0,0,0,0,0,0,0,0,0,0,0
+data scientist,4.7,Compass Consulting Group,Consulting,Data Scientist,92,155,169.5,Thousand Oaks,CA,200,51,13,1,0,0,0,0,0,0,0,0,1,0,1,1
+data engineer,4.8,Klaviyo,Computer Hardware & Software,Data Science Software Engineer,92,155,169.5,Boston,MA,500,201,9,1,0,0,0,0,0,0,1,1,1,0,0,0
+data scientist,4.0,AstraZeneca,Biotech & Pharmaceuticals,AI Ops Data Scientist,92,155,169.5,Gaithersburg,MD,10000,10000,108,1,0,1,1,1,0,0,0,0,1,0,1,0
+senior data scientist,3.8,GutCheck,Advertising & Marketing,Senior Data Scientist,105,167,188.5,Denver,CO,200,51,12,0,0,0,0,0,0,0,0,0,1,0,0,0
+senior data scientist,3.8,Juniper Networks,Telecommunications Services,Sr. ML/Data Scientist - AI/NLP/Chatbot,105,167,188.5,Cupertino,CA,10000,5001,25,1,1,0,1,1,0,0,1,0,1,0,0,0
+data scientist,2.7,Hexagon US Federal,Aerospace & Defense,Data Scientist,105,167,188.5,Lexington Park,MD,200,51,11,0,1,0,0,1,0,0,0,0,1,0,0,0
+data scientist,4.0,Comtech Global Inc,"Health, Beauty, & Fitness",Data Scientist,105,167,188.5,Washington,DC,200,51,1,1,0,1,1,1,1,0,0,0,1,1,1,0
+data scientist,3.8,"Aveshka, Inc.",IT Services,Data Scientist,105,167,188.5,Washington,DC,200,51,11,1,1,0,1,0,0,0,0,0,1,0,1,0
+data scientist,3.2,Perspecta,Aerospace & Defense,Data Scientist,105,167,188.5,Adelphi,MD,10000,10000,3,1,0,1,0,0,0,0,0,0,1,0,0,0
+data scientist,3.6,Qurate Retail Group,Other Retail Stores,Data Scientist,105,167,188.5,West Chester,PA,10000,10000,1,1,1,0,0,0,1,0,0,0,0,0,1,0
+data scientist,4.4,"SolutionIT, Inc.",Unknown,Data Scientist,105,167,188.5,Edison,NJ,200,51,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+data scientist,4.1,A-Line Staffing Solutions,Staffing & Outsourcing,Data Scientist,105,167,188.5,Durham,NC,1000,501,17,1,0,1,1,0,0,0,1,1,1,0,1,1
+data scientist,,Clear Ridge Defense,Unknown,Data Scientist,105,167,188.5,Quantico,VA,50,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0
+data scientist,3.8,"Criterion Systems, Inc.",IT Services,Data Scientist,105,167,188.5,Vienna,VA,500,201,16,1,1,0,0,0,0,0,0,0,0,0,1,0
+data scientist,4.0,Foundation Medicine,Biotech & Pharmaceuticals,Data Scientist,105,167,188.5,Boston,MA,5000,1001,11,1,0,0,0,0,0,0,0,0,0,0,1,0
+data scientist,3.6,TRANZACT,Advertising & Marketing,Data Scientist,105,167,188.5,Fort Lee,NJ,5000,1001,32,1,1,1,0,0,1,0,0,0,1,1,1,0
+data scientist,5.0,ChaTeck Incorporated,Advertising & Marketing,Data Scientist,105,167,188.5,San Francisco,CA,50,1,1,1,0,1,1,0,0,0,0,0,1,0,1,1
+data scientist,2.7,1-800-Flowers,Wholesale,Data Scientist,105,167,188.5,New York,NY,5000,1001,45,1,1,0,0,0,1,0,0,0,0,0,1,0
